@@ -8,7 +8,7 @@ Add SDK swift package dependencies to project: [https://github.com/dm384ok/Eleve
 ## Info.plist setup
 After dependency is continue processing, go to INFO tab, and setup some necessary fields:
 
-(**ElevenSDK** is configuration key, it very important step, so you need ask your manager about it, and add ***ElevenSDK*** to your info plist.)
+(**ElevenKey** is configuration key, it very important step, so you need ask your manager about it, and add ***ElevenKey*** to your info plist.)
 
 > ITSAppUsesNonExemptEncryption  :  NO
 
@@ -20,7 +20,7 @@ After dependency is continue processing, go to INFO tab, and setup some necessar
 
 > NSPhotoLibraryUsageDescription : The game use images to setup user profile and problem solving, we do not store your personal avatart.
 
-> ElevenSDK : ***Paste here key value***
+> ElevenKey : ***Paste here key value***
 
 ## Optional Info.plist setup
 *ASK YOURN MANAGER ABOUT THIS*
