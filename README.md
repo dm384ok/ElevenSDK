@@ -3,7 +3,7 @@ ElevenSDK - collection tools for analytics and tracking .
 If you want to use our tool in your project, contact us.
 
 ## Dependency 
-Add SDK swift package dependencies to project: [https://github.com/dm384ok/ElevenSDK](https://github.com/dm384ok/ElevenSDK) **and select branch 'util'**
+Add SDK swift package dependencies to project: [https://github.com/dm384ok/ElevenSDK](https://github.com/dm384ok/ElevenSDK) and select branch '**Util**'.
 
 ## Info.plist setup
 After dependency is continue processing, go to INFO tab, and setup some necessary fields:
@@ -476,12 +476,6 @@ After dependency is continue processing, go to info.plist file, open is as code,
 #### Next step is enable **Push Notification** on Capability editor:
 
 ![enter image description here](https://i.imgur.com/bg1UMSz.png)
-
-#### Review your Deployment Info tab, accordint to image
-**Enable here ALL AVAILABLE project orientation!** 
-This is Extremely important for the operation of advertising blocks!
-
-![enter image description here](https://i.imgur.com/g1HDkvC.png)
 
 ## Finish
 
