@@ -127,6 +127,27 @@
         "moduleName": "PostHog"
       },
       {
+        "kind": "Import",
+        "name": "TikTokBusinessSDK",
+        "printedName": "TikTokBusinessSDK",
+        "declKind": "Import",
+        "moduleName": "PostHog"
+      },
+      {
+        "kind": "Import",
+        "name": "Firebase",
+        "printedName": "Firebase",
+        "declKind": "Import",
+        "moduleName": "PostHog"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "PostHog"
+      },
+      {
         "kind": "TypeDecl",
         "name": "PostHog",
         "printedName": "PostHog",
@@ -8134,714 +8155,714 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHog.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "Dictionary",
-      "offset": 503,
+      "offset": 568,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHog.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "BooleanLiteral",
-      "offset": 1170,
+      "offset": 1272,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHog.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "StringLiteral",
-      "offset": 1662,
+      "offset": 1735,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHog.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "BooleanLiteral",
-      "offset": 1776,
+      "offset": 1849,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHog.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "BooleanLiteral",
-      "offset": 1848,
+      "offset": 1921,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHog.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "BooleanLiteral",
-      "offset": 8368,
+      "offset": 10108,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHog.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "StringLiteral",
-      "offset": 19470,
+      "offset": 21728,
       "length": 10,
       "value": "\"PostHog.APPSFWraps\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHog.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "IntegerLiteral",
-      "offset": 21547,
+      "offset": 23855,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHog.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "IntegerLiteral",
-      "offset": 21553,
+      "offset": 23861,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHog.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "IntegerLiteral",
-      "offset": 21563,
+      "offset": 23871,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHog.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "IntegerLiteral",
-      "offset": 21576,
+      "offset": 23884,
       "length": 3,
       "value": "100"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHog.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "BooleanLiteral",
-      "offset": 23764,
+      "offset": 26089,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHog.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "StringLiteral",
-      "offset": 23725,
+      "offset": 26050,
       "length": 16,
       "value": "\"ReviewIsShowed\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/Utils\/Data+Gzip.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/Utils\/Data+Gzip.swift",
       "kind": "IntegerLiteral",
       "offset": 5197,
       "length": 2,
       "value": "16"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/Utils\/Data+Gzip.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/Utils\/Data+Gzip.swift",
       "kind": "IntegerLiteral",
       "offset": 8112,
       "length": 2,
       "value": "32"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/Utils\/Data+Gzip.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/Utils\/Data+Gzip.swift",
       "kind": "IntegerLiteral",
       "offset": 11025,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/Utils\/Data+Gzip.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/Utils\/Data+Gzip.swift",
       "kind": "IntegerLiteral",
       "offset": 11030,
       "length": 2,
       "value": "14"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogExtensions.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogExtensions.swift",
       "kind": "StringLiteral",
       "offset": 324,
       "length": 17,
       "value": "\"PostHogDidStart\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogExtensions.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogExtensions.swift",
       "kind": "StringLiteral",
       "offset": 422,
       "length": 31,
       "value": "\"PostHogDidReceiveFeatureFlags\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
       "kind": "StringLiteral",
       "offset": 638,
       "length": 20,
       "value": "\"posthog.distinctId\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
       "kind": "StringLiteral",
       "offset": 686,
       "length": 21,
       "value": "\"posthog.anonymousId\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
       "kind": "StringLiteral",
       "offset": 729,
       "length": 21,
       "value": "\"posthog.queueFolder\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
       "kind": "StringLiteral",
       "offset": 821,
       "length": 21,
       "value": "\"posthog.queue.plist\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
       "kind": "StringLiteral",
       "offset": 878,
       "length": 29,
       "value": "\"posthog.enabledFeatureFlags\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
       "kind": "StringLiteral",
       "offset": 950,
       "length": 36,
       "value": "\"posthog.enabledFeatureFlagPayloads\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
       "kind": "StringLiteral",
       "offset": 1009,
       "length": 16,
       "value": "\"posthog.groups\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
       "kind": "StringLiteral",
       "offset": 1060,
       "length": 28,
       "value": "\"posthog.registerProperties\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
       "kind": "StringLiteral",
       "offset": 1111,
       "length": 16,
       "value": "\"posthog.optOut\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
       "kind": "StringLiteral",
       "offset": 638,
       "length": 20,
       "value": "\"posthog.distinctId\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
       "kind": "StringLiteral",
       "offset": 686,
       "length": 21,
       "value": "\"posthog.anonymousId\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
       "kind": "StringLiteral",
       "offset": 729,
       "length": 21,
       "value": "\"posthog.queueFolder\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
       "kind": "StringLiteral",
       "offset": 821,
       "length": 21,
       "value": "\"posthog.queue.plist\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
       "kind": "StringLiteral",
       "offset": 878,
       "length": 29,
       "value": "\"posthog.enabledFeatureFlags\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
       "kind": "StringLiteral",
       "offset": 950,
       "length": 36,
       "value": "\"posthog.enabledFeatureFlagPayloads\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
       "kind": "StringLiteral",
       "offset": 1009,
       "length": 16,
       "value": "\"posthog.groups\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
       "kind": "StringLiteral",
       "offset": 1060,
       "length": 28,
       "value": "\"posthog.registerProperties\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogStorage.swift",
       "kind": "StringLiteral",
       "offset": 1111,
       "length": 16,
       "value": "\"posthog.optOut\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogVersion.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogVersion.swift",
       "kind": "StringLiteral",
       "offset": 301,
       "length": 7,
       "value": "\"3.2.4\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogVersion.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogVersion.swift",
       "kind": "StringLiteral",
       "offset": 372,
       "length": 13,
       "value": "\"posthog-ios\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogApi.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogApi.swift",
       "kind": "IntegerLiteral",
       "offset": 241,
       "length": 2,
       "value": "10"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "Dictionary",
       "offset": 477,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 633,
       "length": 11,
       "value": "\"$app_name\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 704,
       "length": 21,
       "value": "\"CFBundleDisplayName\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 752,
       "length": 11,
       "value": "\"$app_name\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 829,
       "length": 28,
       "value": "\"CFBundleShortVersionString\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 884,
       "length": 14,
       "value": "\"$app_version\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 965,
       "length": 17,
       "value": "\"CFBundleVersion\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 1009,
       "length": 12,
       "value": "\"$app_build\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 1117,
       "length": 16,
       "value": "\"$app_namespace\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 1195,
       "length": 22,
       "value": "\"$device_manufacturer\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 1221,
       "length": 7,
       "value": "\"Apple\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 1248,
       "length": 15,
       "value": "\"$device_model\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 1434,
       "length": 14,
       "value": "\"$device_name\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 1488,
       "length": 10,
       "value": "\"$os_name\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 1543,
       "length": 13,
       "value": "\"$os_version\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 1739,
       "length": 8,
       "value": "\"Mobile\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 1820,
       "length": 8,
       "value": "\"Tablet\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 1900,
       "length": 4,
       "value": "\"TV\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 1981,
       "length": 9,
       "value": "\"CarPlay\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 2063,
       "length": 9,
       "value": "\"Desktop\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogContext.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogContext.swift",
       "kind": "StringLiteral",
       "offset": 2203,
       "length": 14,
       "value": "\"$device_type\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
       "kind": "FloatLiteral",
       "offset": 205,
       "length": 3,
       "value": "5.0"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
       "kind": "FloatLiteral",
       "offset": 229,
       "length": 4,
       "value": "30.0"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
       "kind": "IntegerLiteral",
       "offset": 310,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
       "kind": "IntegerLiteral",
       "offset": 315,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
       "kind": "BooleanLiteral",
       "offset": 582,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
       "kind": "BooleanLiteral",
       "offset": 1294,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
       "kind": "BooleanLiteral",
       "offset": 1336,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
       "kind": "BooleanLiteral",
       "offset": 1462,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
       "kind": "StringLiteral",
       "offset": 1576,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
       "kind": "BooleanLiteral",
       "offset": 1766,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogSDK.swift",
       "kind": "StringLiteral",
       "offset": 414,
       "length": 10,
       "value": "\"PostHog.PostHogSDK\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 255,
       "length": 8,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 277,
       "length": 3,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 255,
       "length": 8,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 277,
       "length": 3,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 391,
       "length": 2,
       "value": "20"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 435,
       "length": 4,
       "value": "1000"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 481,
       "length": 2,
       "value": "50"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
       "kind": "IntegerLiteral",
       "offset": 542,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 649,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 703,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 771,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 824,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 864,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 906,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
       "kind": "StringLiteral",
       "offset": 956,
       "length": 25,
       "value": "\"https:\/\/app.posthog.com\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 1050,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
       "kind": "BooleanLiteral",
       "offset": 1100,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogConfig.swift",
       "kind": "StringLiteral",
       "offset": 136,
       "length": 13,
       "value": "\"PostHog.PostHogConfig\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogQueue.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogQueue.swift",
       "kind": "BooleanLiteral",
       "offset": 489,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogQueue.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogQueue.swift",
       "kind": "IntegerLiteral",
       "offset": 611,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogQueue.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogQueue.swift",
       "kind": "BooleanLiteral",
       "offset": 723,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogQueue.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogQueue.swift",
       "kind": "StringLiteral",
       "offset": 892,
       "length": 19,
       "value": "\"com.posthog.Queue\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/Utils\/Hedgelog.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/Utils\/Hedgelog.swift",
       "kind": "BooleanLiteral",
       "offset": 120,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogFeatureFlags.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogFeatureFlags.swift",
       "kind": "BooleanLiteral",
       "offset": 382,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/PostHogFeatureFlags.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHogFeatureFlags.swift",
       "kind": "StringLiteral",
       "offset": 442,
       "length": 26,
       "value": "\"com.posthog.FeatureFlags\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/Utils\/Reachability.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/Utils\/Reachability.swift",
       "kind": "StringLiteral",
       "offset": 1820,
       "length": 33,
       "value": "\"ReachabilityChangedNotification\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/Utils\/Reachability.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/Utils\/Reachability.swift",
       "kind": "StringLiteral",
       "offset": 1956,
       "length": 21,
       "value": "\"reachabilityChanged\""
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/Utils\/Reachability.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/Utils\/Reachability.swift",
       "kind": "BooleanLiteral",
       "offset": 3348,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/Utils\/Reachability.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/Utils\/Reachability.swift",
       "kind": "BooleanLiteral",
       "offset": 4496,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/posthog-ios-main\/PostHog\/Utils\/Reachability.swift",
+      "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/Utils\/Reachability.swift",
       "kind": "BooleanLiteral",
       "offset": 4623,
       "length": 5,

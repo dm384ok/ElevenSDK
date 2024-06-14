@@ -4,14 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		b/lQFcKX7bV6CnSwteNW0PpN7q8=
-		</data>
-		<key>ios-arm64/.DS_Store</key>
-		<data>
-		ZepUF57e7HC0LMUYJohKrlsFBXQ=
-		</data>
 		<key>ios-arm64/WonderPush.framework/Headers/InAppMessaging.h</key>
 		<data>
 		PlBpNsWiaclSgpTgv6caqGhx7lc=
@@ -30,7 +22,7 @@
 		</data>
 		<key>ios-arm64/WonderPush.framework/Headers/WonderPush-Swift.h</key>
 		<data>
-		Q6HD0SxMCNEePOm1q5j9bz5s0LM=
+		+3BczUr1mnwFzFex4UVZm3W/LS8=
 		</data>
 		<key>ios-arm64/WonderPush.framework/Headers/WonderPush.h</key>
 		<data>
@@ -38,31 +30,27 @@
 		</data>
 		<key>ios-arm64/WonderPush.framework/Info.plist</key>
 		<data>
-		rZzhK7mVJDGGYygzzeCeZ1QKzk0=
+		FeQi2QyMhhnuaHiqZVL2ozc22v8=
 		</data>
 		<key>ios-arm64/WonderPush.framework/Modules/WonderPush.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		OxEBuZd2YNSIOYWx8AjcjK3he58=
+		pGBdqBGoRmrh50UWBRl8Uj/YNrQ=
 		</data>
 		<key>ios-arm64/WonderPush.framework/Modules/WonderPush.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		72A6uIy9D9BA+CQ6g5qh8oCKzvo=
+		juPBOX0XTp7ttuqCIS56YI4EHPo=
 		</data>
 		<key>ios-arm64/WonderPush.framework/Modules/WonderPush.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		/3SMXtj9fCgW83h5GSjueDu//wM=
+		mtuNHgHLGn/Xz21vk7oR0hUJ8Qw=
 		</data>
 		<key>ios-arm64/WonderPush.framework/Modules/WonderPush.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		72A6uIy9D9BA+CQ6g5qh8oCKzvo=
+		juPBOX0XTp7ttuqCIS56YI4EHPo=
 		</data>
 		<key>ios-arm64/WonderPush.framework/Modules/module.modulemap</key>
 		<data>
 		VhlavXZY9icx+Brh+LepvwFjBy8=
-		</data>
-		<key>ios-arm64/WonderPush.framework/PrivacyInfo.xcprivacy</key>
-		<data>
-		/aMtBG70sYMZpggmhmBURc1GBf0=
 		</data>
 		<key>ios-arm64/WonderPush.framework/WPInAppMessageDisplayStoryboard.storyboardc/Info.plist</key>
 		<data>
@@ -106,11 +94,11 @@
 		</data>
 		<key>ios-arm64/WonderPush.framework/WPInAppMessageDisplayStoryboard.storyboardc/webview-preloader-vc.nib</key>
 		<data>
-		+HRKVF8E2zx0JJMSt6X0UBTVJII=
+		uEUv3V1iSXkRvoNivu2pahebePE=
 		</data>
 		<key>ios-arm64/WonderPush.framework/WPInAppMessageDisplayStoryboard.storyboardc/webview-vc.nib</key>
 		<data>
-		E0HBlVReuCNWQCLyv1yye1dAPRw=
+		cb1UQzjpOwuQXz2xNO/yEMIqfJ0=
 		</data>
 		<key>ios-arm64/WonderPush.framework/WPInAppMessageDisplayStoryboard.storyboardc/x01-lq-3r6-view-1pz-BP-O6T.nib</key>
 		<data>
@@ -118,21 +106,13 @@
 		</data>
 		<key>ios-arm64/WonderPush.framework/WonderPush</key>
 		<data>
-		EMfpdSti+C25hUvcsfikm6elxEM=
+		opNSbtAiW4mVk4zWzJE34+eRRDs=
 		</data>
-		<key>ios-arm64/WonderPush.framework/WonderPush.storyboardc/7Q1-Q4-Bvp-view-TR0-Qq-M8K.nib/objects-11.0+.nib</key>
+		<key>ios-arm64/WonderPush.framework/WonderPush.storyboardc/7Q1-Q4-Bvp-view-TR0-Qq-M8K.nib</key>
 		<data>
 		bAyELsQsA0U91jwfUwE6mpIet+g=
 		</data>
-		<key>ios-arm64/WonderPush.framework/WonderPush.storyboardc/7Q1-Q4-Bvp-view-TR0-Qq-M8K.nib/runtime.nib</key>
-		<data>
-		GGf0N225h7e7+66G7iQuxq3vSSo=
-		</data>
-		<key>ios-arm64/WonderPush.framework/WonderPush.storyboardc/HTMLInAppController.nib/objects-11.0+.nib</key>
-		<data>
-		tTpJcr+pxYwutO6OuLc1ZWizSwk=
-		</data>
-		<key>ios-arm64/WonderPush.framework/WonderPush.storyboardc/HTMLInAppController.nib/runtime.nib</key>
+		<key>ios-arm64/WonderPush.framework/WonderPush.storyboardc/HTMLInAppController.nib</key>
 		<data>
 		tTpJcr+pxYwutO6OuLc1ZWizSwk=
 		</data>
@@ -458,21 +438,17 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>ios-arm64/dSYMs/.DS_Store</key>
-		<data>
-		hQ773EaINqhx+I7vA6rMZsHL+Qw=
-		</data>
 		<key>ios-arm64/dSYMs/WonderPush.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		n96nMPpSfyEOXydyl+rjCoX2D04=
+		1aqGpF/EG0fs0aipBccfaWDn9m8=
 		</data>
 		<key>ios-arm64/dSYMs/WonderPush.framework.dSYM/Contents/Resources/DWARF/WonderPush</key>
 		<data>
-		t/JAWgyyHDIVWlKctpjRmhw8EX8=
+		0e+P9pNh48+bN7S+08B9o1FTp/o=
 		</data>
 		<key>ios-arm64/dSYMs/WonderPush.framework.dSYM/Contents/Resources/Relocations/aarch64/WonderPush.yml</key>
 		<data>
-		+NMXsKpzMfYxgzY2zVMZV6itX/8=
+		5kCNluLW0xMLJJXp4qdZO5Tat4s=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Headers/InAppMessaging.h</key>
 		<data>
@@ -492,7 +468,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Headers/WonderPush-Swift.h</key>
 		<data>
-		zXQMr1Ku9cGMXQrG+CgFYvlHUG4=
+		ZQ3EZ9Bh1xQvfs+NSBC6/UZm9t8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Headers/WonderPush.h</key>
 		<data>
@@ -500,47 +476,43 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Info.plist</key>
 		<data>
-		nFDx/IyPSZkR/gWKMJJrO8en8fA=
+		FSY6HDzSPpF0jrdM6ymnDqmXtsc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Modules/WonderPush.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		OxEBuZd2YNSIOYWx8AjcjK3he58=
+		pGBdqBGoRmrh50UWBRl8Uj/YNrQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Modules/WonderPush.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		VnjDXlDz2fPdZByK9vnvu+PQEBU=
+		xm5AkmkQzslrrJFPVVYG5pQIAMg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Modules/WonderPush.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		nO4+RlN7i099+L33f+Jt5Q1vbcg=
+		8jQme4oRhkVp0j5Z7spVL1DPUMw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Modules/WonderPush.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		VnjDXlDz2fPdZByK9vnvu+PQEBU=
+		xm5AkmkQzslrrJFPVVYG5pQIAMg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Modules/WonderPush.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		OxEBuZd2YNSIOYWx8AjcjK3he58=
+		pGBdqBGoRmrh50UWBRl8Uj/YNrQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Modules/WonderPush.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		9L/ZC4denbBImdzIKzEDhpJrqa0=
+		BsaT2TkiFR5Lkk2ek3it2U7CKs8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Modules/WonderPush.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		j7FjP1UX5pSVp1/208Y/9OPYxUY=
+		VbgQ01LvmEtJs0rXrPPdtdJFjZ0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Modules/WonderPush.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9L/ZC4denbBImdzIKzEDhpJrqa0=
+		BsaT2TkiFR5Lkk2ek3it2U7CKs8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Modules/module.modulemap</key>
 		<data>
 		VhlavXZY9icx+Brh+LepvwFjBy8=
-		</data>
-		<key>ios-arm64_x86_64-simulator/WonderPush.framework/PrivacyInfo.xcprivacy</key>
-		<data>
-		/aMtBG70sYMZpggmhmBURc1GBf0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WPInAppMessageDisplayStoryboard.storyboardc/Info.plist</key>
 		<data>
@@ -580,47 +552,35 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WPInAppMessageDisplayStoryboard.storyboardc/oTF-1C-LZP-view-SM1-hn-m3n.nib</key>
 		<data>
-		QZBCP+WBZvfrnlRgO+yXwKUPAtU=
+		eiLJm+h1Na0vTdIw4GoqdXGOyig=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WPInAppMessageDisplayStoryboard.storyboardc/webview-preloader-vc.nib</key>
 		<data>
-		+HRKVF8E2zx0JJMSt6X0UBTVJII=
+		uEUv3V1iSXkRvoNivu2pahebePE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WPInAppMessageDisplayStoryboard.storyboardc/webview-vc.nib</key>
 		<data>
-		E0HBlVReuCNWQCLyv1yye1dAPRw=
+		cb1UQzjpOwuQXz2xNO/yEMIqfJ0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WPInAppMessageDisplayStoryboard.storyboardc/x01-lq-3r6-view-1pz-BP-O6T.nib</key>
 		<data>
-		xQLOIVz7YtbBDLMrmJFmIjX9bM0=
+		eruAU1ueAl2QVHw2fZ6e5U5eg3s=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WonderPush</key>
 		<data>
-		FAfngUY4JRaghHeq/ErSpVw3nsQ=
+		5dZELmiESgyJVOuWOlviIcoX0Fg=
 		</data>
-		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WonderPush.storyboardc/7Q1-Q4-Bvp-view-TR0-Qq-M8K.nib/objects-11.0+.nib</key>
+		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WonderPush.storyboardc/7Q1-Q4-Bvp-view-TR0-Qq-M8K.nib</key>
 		<data>
 		bAyELsQsA0U91jwfUwE6mpIet+g=
 		</data>
-		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WonderPush.storyboardc/7Q1-Q4-Bvp-view-TR0-Qq-M8K.nib/runtime.nib</key>
-		<data>
-		GGf0N225h7e7+66G7iQuxq3vSSo=
-		</data>
-		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WonderPush.storyboardc/HTMLInAppController.nib/objects-11.0+.nib</key>
-		<data>
-		tTpJcr+pxYwutO6OuLc1ZWizSwk=
-		</data>
-		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WonderPush.storyboardc/HTMLInAppController.nib/runtime.nib</key>
+		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WonderPush.storyboardc/HTMLInAppController.nib</key>
 		<data>
 		tTpJcr+pxYwutO6OuLc1ZWizSwk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WonderPush.storyboardc/Info.plist</key>
 		<data>
 		rQoW1c0B8QwBODcgfbY3GBHwDTg=
-		</data>
-		<key>ios-arm64_x86_64-simulator/WonderPush.framework/_CodeSignature/CodeResources</key>
-		<data>
-		GaMIfSwAUeUsSie4rNS+yK32040=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/ar.lproj/WonderPushLocalizable.strings</key>
 		<dict>
@@ -942,19 +902,19 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/WonderPush.framework.dSYM/Contents/Info.plist</key>
 		<data>
-		n96nMPpSfyEOXydyl+rjCoX2D04=
+		1aqGpF/EG0fs0aipBccfaWDn9m8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/WonderPush.framework.dSYM/Contents/Resources/DWARF/WonderPush</key>
 		<data>
-		hQyxdOzDp7OeEyp4O1H/ZqINo6k=
+		C44XEapcbJMDkAebrLzMiQ2rPDc=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/WonderPush.framework.dSYM/Contents/Resources/Relocations/aarch64/WonderPush.yml</key>
 		<data>
-		1OzCnE07QM+vIXmunABr1akRAXM=
+		JbBdQYnYbR7AjSTjJ/VMdfXcltk=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/WonderPush.framework.dSYM/Contents/Resources/Relocations/x86_64/WonderPush.yml</key>
 		<data>
-		/9mzPvae8MKyV1qFw/J5ekqnois=
+		dxJyKYxjbWIJUvLESurO35cH4e4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -1007,11 +967,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Q6HD0SxMCNEePOm1q5j9bz5s0LM=
+			+3BczUr1mnwFzFex4UVZm3W/LS8=
 			</data>
 			<key>hash2</key>
 			<data>
-			C8sx5gkMXUYdmAWJYe1SyPu1AGWtMv3jhKFmH189hHY=
+			ycHsJG304hdSTXI6J/YuQ3PzqEM+sDZyWZHsNgTARpo=
 			</data>
 		</dict>
 		<key>ios-arm64/WonderPush.framework/Headers/WonderPush.h</key>
@@ -1029,55 +989,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rZzhK7mVJDGGYygzzeCeZ1QKzk0=
+			FeQi2QyMhhnuaHiqZVL2ozc22v8=
 			</data>
 			<key>hash2</key>
 			<data>
-			wnQgkwvqDV9C2+T95BhOwqXfYC2yRJsgqedW2TCMOJo=
+			dN8UHoLqadmswR+h6iibD3o2YM/gRHuQg/PL64Te9nY=
 			</data>
 		</dict>
 		<key>ios-arm64/WonderPush.framework/Modules/WonderPush.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OxEBuZd2YNSIOYWx8AjcjK3he58=
+			pGBdqBGoRmrh50UWBRl8Uj/YNrQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			LjbLS7SfmUWFC938P6bZggKu0zndOz1irfursFyJvhg=
+			CZzszAZJ/PZ346vrzqGphF8NBW/hqhz9Qe7NuG11zdg=
 			</data>
 		</dict>
 		<key>ios-arm64/WonderPush.framework/Modules/WonderPush.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			72A6uIy9D9BA+CQ6g5qh8oCKzvo=
+			juPBOX0XTp7ttuqCIS56YI4EHPo=
 			</data>
 			<key>hash2</key>
 			<data>
-			LOSrO2dnJftOGQCpFdF2vWU1yJX/ycbhEaJhrg9WBoU=
+			lNVqbxKMYKvI/wyB6oaaWQ2h4/hCJV/sZ/Q2vUsywDA=
 			</data>
 		</dict>
 		<key>ios-arm64/WonderPush.framework/Modules/WonderPush.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/3SMXtj9fCgW83h5GSjueDu//wM=
+			mtuNHgHLGn/Xz21vk7oR0hUJ8Qw=
 			</data>
 			<key>hash2</key>
 			<data>
-			yU66olXwZcZl8ghw8DMa1det3oY71kAITwl0QrhEChI=
+			8X79xJlVh6z7h3hOCtSwct1AAeJfs6m2rIL5KxyYiA4=
 			</data>
 		</dict>
 		<key>ios-arm64/WonderPush.framework/Modules/WonderPush.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			72A6uIy9D9BA+CQ6g5qh8oCKzvo=
+			juPBOX0XTp7ttuqCIS56YI4EHPo=
 			</data>
 			<key>hash2</key>
 			<data>
-			LOSrO2dnJftOGQCpFdF2vWU1yJX/ycbhEaJhrg9WBoU=
+			lNVqbxKMYKvI/wyB6oaaWQ2h4/hCJV/sZ/Q2vUsywDA=
 			</data>
 		</dict>
 		<key>ios-arm64/WonderPush.framework/Modules/module.modulemap</key>
@@ -1089,17 +1049,6 @@
 			<key>hash2</key>
 			<data>
 			9GMXARl63jbLo/Bd5Z6qBvtnNjH8oEY/VkAxR2N0O04=
-			</data>
-		</dict>
-		<key>ios-arm64/WonderPush.framework/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/aMtBG70sYMZpggmhmBURc1GBf0=
-			</data>
-			<key>hash2</key>
-			<data>
-			0EGvB5CrmyAQkjyKNXDLsDlkvJG/jFXsiA2G0AikMzo=
 			</data>
 		</dict>
 		<key>ios-arm64/WonderPush.framework/WPInAppMessageDisplayStoryboard.storyboardc/Info.plist</key>
@@ -1216,22 +1165,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+HRKVF8E2zx0JJMSt6X0UBTVJII=
+			uEUv3V1iSXkRvoNivu2pahebePE=
 			</data>
 			<key>hash2</key>
 			<data>
-			dg9Kt+PYTlZ5s++78oNniPtdI52QVE7PsH+sIM4C1og=
+			Pun4lIbKmhqOniWLoxNAiHvKLcwIsZWvGArr8Yej9mY=
 			</data>
 		</dict>
 		<key>ios-arm64/WonderPush.framework/WPInAppMessageDisplayStoryboard.storyboardc/webview-vc.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			E0HBlVReuCNWQCLyv1yye1dAPRw=
+			cb1UQzjpOwuQXz2xNO/yEMIqfJ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gxs+SqCTxFrJAUZBR5IvfisJQh5RJy2uQayaOT7F8Mg=
+			dBW2k4HdL842S3Zw1eTHaxNyH5cS9BzfhMDgNWYPmwI=
 			</data>
 		</dict>
 		<key>ios-arm64/WonderPush.framework/WPInAppMessageDisplayStoryboard.storyboardc/x01-lq-3r6-view-1pz-BP-O6T.nib</key>
@@ -1249,14 +1198,14 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EMfpdSti+C25hUvcsfikm6elxEM=
+			opNSbtAiW4mVk4zWzJE34+eRRDs=
 			</data>
 			<key>hash2</key>
 			<data>
-			mxyQlzJONFwfO0gnqgJGExdc5JCppdnZvWWFRkGvqiQ=
+			XVgrAdL2EfcuaIjHsPY0T9fdAFw212JZGd2nTpiql6Y=
 			</data>
 		</dict>
-		<key>ios-arm64/WonderPush.framework/WonderPush.storyboardc/7Q1-Q4-Bvp-view-TR0-Qq-M8K.nib/objects-11.0+.nib</key>
+		<key>ios-arm64/WonderPush.framework/WonderPush.storyboardc/7Q1-Q4-Bvp-view-TR0-Qq-M8K.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1267,29 +1216,7 @@
 			HWWha2VVHB75TZtvEi3dUiAM6bbINOC0nw7hQ4Hdu58=
 			</data>
 		</dict>
-		<key>ios-arm64/WonderPush.framework/WonderPush.storyboardc/7Q1-Q4-Bvp-view-TR0-Qq-M8K.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GGf0N225h7e7+66G7iQuxq3vSSo=
-			</data>
-			<key>hash2</key>
-			<data>
-			Qx6B4QwWu/T4NQ4BGC8+SUWa6/PT0UhJunPI9Jpk0EE=
-			</data>
-		</dict>
-		<key>ios-arm64/WonderPush.framework/WonderPush.storyboardc/HTMLInAppController.nib/objects-11.0+.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tTpJcr+pxYwutO6OuLc1ZWizSwk=
-			</data>
-			<key>hash2</key>
-			<data>
-			lgR45y9n39Gq+0Mm1MuhuQsw8RWvoZ4KT58qz4A2crg=
-			</data>
-		</dict>
-		<key>ios-arm64/WonderPush.framework/WonderPush.storyboardc/HTMLInAppController.nib/runtime.nib</key>
+		<key>ios-arm64/WonderPush.framework/WonderPush.storyboardc/HTMLInAppController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -1790,33 +1717,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n96nMPpSfyEOXydyl+rjCoX2D04=
+			1aqGpF/EG0fs0aipBccfaWDn9m8=
 			</data>
 			<key>hash2</key>
 			<data>
-			fBUVSZvA3lcnjwKygKq6m48B3f8nfzVb1GsBV944XC0=
+			kZgzLVWvbymdV1eV3JxJW278kKeRqe7br+vMj8RbcVY=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/WonderPush.framework.dSYM/Contents/Resources/DWARF/WonderPush</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			t/JAWgyyHDIVWlKctpjRmhw8EX8=
+			0e+P9pNh48+bN7S+08B9o1FTp/o=
 			</data>
 			<key>hash2</key>
 			<data>
-			ohb/BQw7IIYspnwHtgtOTqpEUH+wwX3XpwSQrgUUfF8=
+			5VA5zItRYAnpsr1HyaqB0mkp85oTqQRWkiD2PueeNks=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/WonderPush.framework.dSYM/Contents/Resources/Relocations/aarch64/WonderPush.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+NMXsKpzMfYxgzY2zVMZV6itX/8=
+			5kCNluLW0xMLJJXp4qdZO5Tat4s=
 			</data>
 			<key>hash2</key>
 			<data>
-			dfwO9G+Nwr6ylilszD1bCrqfEsP+mqIy8enWYEew8aE=
+			L3AW42b9GDEw5jR5XO9VkH6DlSlJUW6GQrvtvLfNL6o=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Headers/InAppMessaging.h</key>
@@ -1867,11 +1794,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zXQMr1Ku9cGMXQrG+CgFYvlHUG4=
+			ZQ3EZ9Bh1xQvfs+NSBC6/UZm9t8=
 			</data>
 			<key>hash2</key>
 			<data>
-			E///CT7Xg0luFp/jFojHgl7gDva7eMGJZJO1pdMd/6o=
+			RTGgaDjtxgccrNPBBZgv9cwzjqP/69XoDtoo23jQeIE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Headers/WonderPush.h</key>
@@ -1889,99 +1816,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nFDx/IyPSZkR/gWKMJJrO8en8fA=
+			FSY6HDzSPpF0jrdM6ymnDqmXtsc=
 			</data>
 			<key>hash2</key>
 			<data>
-			E1KPRw3rB+bReAs2cNuGk94MUiMinK6uWGcScnAcPWI=
+			uwxyxeU3rX5m/0gXLa6hzsXsSDkHKx2T4d+dRhkQeJE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Modules/WonderPush.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OxEBuZd2YNSIOYWx8AjcjK3he58=
+			pGBdqBGoRmrh50UWBRl8Uj/YNrQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			LjbLS7SfmUWFC938P6bZggKu0zndOz1irfursFyJvhg=
+			CZzszAZJ/PZ346vrzqGphF8NBW/hqhz9Qe7NuG11zdg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Modules/WonderPush.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VnjDXlDz2fPdZByK9vnvu+PQEBU=
+			xm5AkmkQzslrrJFPVVYG5pQIAMg=
 			</data>
 			<key>hash2</key>
 			<data>
-			WL1mbrzX76THNdmRKRhYKE++1G5NUKJpxxyNbaI+xNs=
+			UcONu+xhH2LJfKOOehu78KFrIqm7QmEotF+0pSbwDis=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Modules/WonderPush.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nO4+RlN7i099+L33f+Jt5Q1vbcg=
+			8jQme4oRhkVp0j5Z7spVL1DPUMw=
 			</data>
 			<key>hash2</key>
 			<data>
-			zckX0ZII5ziDgVuKzTee9CRZ7xbUL4r3pbTp+3on5Sg=
+			OtBoda83gujh+ALGfBnUECWCMZNAgjnhXsn3JDGW9io=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Modules/WonderPush.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VnjDXlDz2fPdZByK9vnvu+PQEBU=
+			xm5AkmkQzslrrJFPVVYG5pQIAMg=
 			</data>
 			<key>hash2</key>
 			<data>
-			WL1mbrzX76THNdmRKRhYKE++1G5NUKJpxxyNbaI+xNs=
+			UcONu+xhH2LJfKOOehu78KFrIqm7QmEotF+0pSbwDis=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Modules/WonderPush.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OxEBuZd2YNSIOYWx8AjcjK3he58=
+			pGBdqBGoRmrh50UWBRl8Uj/YNrQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			LjbLS7SfmUWFC938P6bZggKu0zndOz1irfursFyJvhg=
+			CZzszAZJ/PZ346vrzqGphF8NBW/hqhz9Qe7NuG11zdg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Modules/WonderPush.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9L/ZC4denbBImdzIKzEDhpJrqa0=
+			BsaT2TkiFR5Lkk2ek3it2U7CKs8=
 			</data>
 			<key>hash2</key>
 			<data>
-			wqHjBucGd75VT8TxfGLzI/xRUnp7X9UQMAYjErv68nk=
+			ocCf+Mri9LhfmS0/u2Rc3gMYT0YQHDhCHk2S5alCy40=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Modules/WonderPush.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j7FjP1UX5pSVp1/208Y/9OPYxUY=
+			VbgQ01LvmEtJs0rXrPPdtdJFjZ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pok8dzvXYvLEzYtffYoL4j/F9RLHF4l75CfwL4aqJwU=
+			9AsFKY6Cest9Py+Ejr60GoXrvWgq+GSGtBoTotwmCtY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Modules/WonderPush.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9L/ZC4denbBImdzIKzEDhpJrqa0=
+			BsaT2TkiFR5Lkk2ek3it2U7CKs8=
 			</data>
 			<key>hash2</key>
 			<data>
-			wqHjBucGd75VT8TxfGLzI/xRUnp7X9UQMAYjErv68nk=
+			ocCf+Mri9LhfmS0/u2Rc3gMYT0YQHDhCHk2S5alCy40=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Modules/module.modulemap</key>
@@ -1993,17 +1920,6 @@
 			<key>hash2</key>
 			<data>
 			9GMXARl63jbLo/Bd5Z6qBvtnNjH8oEY/VkAxR2N0O04=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/WonderPush.framework/PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/aMtBG70sYMZpggmhmBURc1GBf0=
-			</data>
-			<key>hash2</key>
-			<data>
-			0EGvB5CrmyAQkjyKNXDLsDlkvJG/jFXsiA2G0AikMzo=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WPInAppMessageDisplayStoryboard.storyboardc/Info.plist</key>
@@ -2109,58 +2025,58 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QZBCP+WBZvfrnlRgO+yXwKUPAtU=
+			eiLJm+h1Na0vTdIw4GoqdXGOyig=
 			</data>
 			<key>hash2</key>
 			<data>
-			2t08cYLU7HYTizb1prrx8y1/1XDK9s/2lhLRl9JXtmE=
+			aIhy8CQV+FilsN5S8oAlD8L2BinUzAmyfhV5we66bMw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WPInAppMessageDisplayStoryboard.storyboardc/webview-preloader-vc.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+HRKVF8E2zx0JJMSt6X0UBTVJII=
+			uEUv3V1iSXkRvoNivu2pahebePE=
 			</data>
 			<key>hash2</key>
 			<data>
-			dg9Kt+PYTlZ5s++78oNniPtdI52QVE7PsH+sIM4C1og=
+			Pun4lIbKmhqOniWLoxNAiHvKLcwIsZWvGArr8Yej9mY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WPInAppMessageDisplayStoryboard.storyboardc/webview-vc.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			E0HBlVReuCNWQCLyv1yye1dAPRw=
+			cb1UQzjpOwuQXz2xNO/yEMIqfJ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gxs+SqCTxFrJAUZBR5IvfisJQh5RJy2uQayaOT7F8Mg=
+			dBW2k4HdL842S3Zw1eTHaxNyH5cS9BzfhMDgNWYPmwI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WPInAppMessageDisplayStoryboard.storyboardc/x01-lq-3r6-view-1pz-BP-O6T.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xQLOIVz7YtbBDLMrmJFmIjX9bM0=
+			eruAU1ueAl2QVHw2fZ6e5U5eg3s=
 			</data>
 			<key>hash2</key>
 			<data>
-			s3EXJu5LwkPi3r/fK3E+lwueAf18333nF0lwMMynWQc=
+			oAoOytZW2Gyi4S6iLU4/RHQ7laVnDBPUfcvFWYlJDgs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WonderPush</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FAfngUY4JRaghHeq/ErSpVw3nsQ=
+			5dZELmiESgyJVOuWOlviIcoX0Fg=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ou1PIJ1Yv0m8B0VemmAkyljCnGVpb7UdpE2l8yJobJk=
+			2MSVFADOAoGBRom2vnB0SK/lh9eay2eHoRlIt0McDsk=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WonderPush.storyboardc/7Q1-Q4-Bvp-view-TR0-Qq-M8K.nib/objects-11.0+.nib</key>
+		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WonderPush.storyboardc/7Q1-Q4-Bvp-view-TR0-Qq-M8K.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2171,29 +2087,7 @@
 			HWWha2VVHB75TZtvEi3dUiAM6bbINOC0nw7hQ4Hdu58=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WonderPush.storyboardc/7Q1-Q4-Bvp-view-TR0-Qq-M8K.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GGf0N225h7e7+66G7iQuxq3vSSo=
-			</data>
-			<key>hash2</key>
-			<data>
-			Qx6B4QwWu/T4NQ4BGC8+SUWa6/PT0UhJunPI9Jpk0EE=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WonderPush.storyboardc/HTMLInAppController.nib/objects-11.0+.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tTpJcr+pxYwutO6OuLc1ZWizSwk=
-			</data>
-			<key>hash2</key>
-			<data>
-			lgR45y9n39Gq+0Mm1MuhuQsw8RWvoZ4KT58qz4A2crg=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WonderPush.storyboardc/HTMLInAppController.nib/runtime.nib</key>
+		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WonderPush.storyboardc/HTMLInAppController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2213,17 +2107,6 @@
 			<key>hash2</key>
 			<data>
 			MQsSbOFGXmYINoh9nwid/9xBX1lcyS76lU9QW1PpOEw=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/WonderPush.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GaMIfSwAUeUsSie4rNS+yK32040=
-			</data>
-			<key>hash2</key>
-			<data>
-			qAABrbTeJBpc7ndwMod96eS26IXAO9/yIx1AyaWNIzA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/ar.lproj/WonderPushLocalizable.strings</key>
@@ -2705,44 +2588,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n96nMPpSfyEOXydyl+rjCoX2D04=
+			1aqGpF/EG0fs0aipBccfaWDn9m8=
 			</data>
 			<key>hash2</key>
 			<data>
-			fBUVSZvA3lcnjwKygKq6m48B3f8nfzVb1GsBV944XC0=
+			kZgzLVWvbymdV1eV3JxJW278kKeRqe7br+vMj8RbcVY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/WonderPush.framework.dSYM/Contents/Resources/DWARF/WonderPush</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hQyxdOzDp7OeEyp4O1H/ZqINo6k=
+			C44XEapcbJMDkAebrLzMiQ2rPDc=
 			</data>
 			<key>hash2</key>
 			<data>
-			e4vaN/uHft3WQAOqvQcVXtsRlNcGVs5HNUakf41IBaI=
+			f7rpQXWMG3Ndgy09JNeg1+RBRo4NdPAtGiBcM/UUFMk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/WonderPush.framework.dSYM/Contents/Resources/Relocations/aarch64/WonderPush.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1OzCnE07QM+vIXmunABr1akRAXM=
+			JbBdQYnYbR7AjSTjJ/VMdfXcltk=
 			</data>
 			<key>hash2</key>
 			<data>
-			8tWjL4b1mohD7YEYwMDKyChFchH96dm61r5+Zxa/4e4=
+			9lfh+c5Ld6gVRgTE5wO7gYRSweLKvdVUmFcu/eOxgH0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/WonderPush.framework.dSYM/Contents/Resources/Relocations/x86_64/WonderPush.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/9mzPvae8MKyV1qFw/J5ekqnois=
+			dxJyKYxjbWIJUvLESurO35cH4e4=
 			</data>
 			<key>hash2</key>
 			<data>
-			kBUVtw8z61efrhsVpPN1lbptXyyWa6rBj/NCFIDLYwA=
+			3HwpxE8tGWECTCpS7uTCyawOb4w0gPu64etXWq/EYfI=
 			</data>
 		</dict>
 	</dict>

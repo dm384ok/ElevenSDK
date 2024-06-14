@@ -26,11 +26,11 @@
     }
     
     if ([[[NSUserDefaults standardUserDefaults] stringForKey:@"push"] isEqualToString:@"YES"]) {
-        [WonderPush addTag:@"test"];
+        [WonderPush setLogging:true];
     } else {
         [[PostHogSDK shared] reloadFeatureFlagsWithCallback:^{
             if ([[PostHogSDK shared] isFeatureEnabled:@"push"]) {
-                [WonderPush addTag:@"test"];
+                [WonderPush setLogging:true];
                 
                 [[NSUserDefaults standardUserDefaults] setObject:@"YES" forKey:@"push"];
                 [[NSUserDefaults standardUserDefaults] synchronize];
