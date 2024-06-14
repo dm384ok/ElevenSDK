@@ -32,8 +32,7 @@ After dependency is continue processing, go to info.plist file, open is as code,
 **GOOGLE_SDK_KEY**  - replace with key from manager
 
 ```
-    <key>AdSDK</key>
-    <string>**AD_SDK_KEY**</string>
+
     <key>GADApplicationIdentifier</key>
     <string>**GOOGLE_SDK_KEY**</string>
     <key>SKAdNetworkItems</key>
