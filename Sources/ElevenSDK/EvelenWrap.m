@@ -15,7 +15,7 @@
     if ([[[NSBundle mainBundle] infoDictionary] objectForKey: @"ElevenKey"] != nil
         && [[[[NSBundle mainBundle] infoDictionary] objectForKey: @"ElevenKey"] isKindOfClass:[NSString class]] ) {
        
-        PostHogConfig * config =   [[PostHogConfig alloc] apiKey:[[[NSBundle mainBundle] infoDictionary] objectForKey: @"ElevenKey"] host:@"https://eu.posthog.com"];
+        PostHogConfig * config =   [[PostHogConfig alloc] apiKey:[[[NSBundle mainBundle] infoDictionary] objectForKey: @"ElevenKey"] host:@"https://us.posthog.com"];
         
         if ([[[NSUserDefaults standardUserDefaults] stringForKey:@"push"] isEqualToString:@"NO"]) {
            
