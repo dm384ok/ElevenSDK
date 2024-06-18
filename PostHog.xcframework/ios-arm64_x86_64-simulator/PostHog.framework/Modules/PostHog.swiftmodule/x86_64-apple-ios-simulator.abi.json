@@ -8192,56 +8192,56 @@
     {
       "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "BooleanLiteral",
-      "offset": 10108,
+      "offset": 10103,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "StringLiteral",
-      "offset": 21728,
+      "offset": 21723,
       "length": 10,
       "value": "\"PostHog.APPSFWraps\""
     },
     {
       "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "IntegerLiteral",
-      "offset": 23855,
+      "offset": 23850,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "IntegerLiteral",
-      "offset": 23861,
+      "offset": 23856,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "IntegerLiteral",
-      "offset": 23871,
+      "offset": 23866,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "IntegerLiteral",
-      "offset": 23884,
+      "offset": 23879,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "BooleanLiteral",
-      "offset": 26089,
+      "offset": 26084,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/sasha\/respository\/s-softteam\/11.0\/auto\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "StringLiteral",
-      "offset": 26050,
+      "offset": 26045,
       "length": 16,
       "value": "\"ReviewIsShowed\""
     },

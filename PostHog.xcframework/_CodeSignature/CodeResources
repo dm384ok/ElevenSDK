@@ -18,7 +18,7 @@
 		</data>
 		<key>ios-arm64/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		w9D8SuLvfJq9eDDv0om+Idk0RO8=
+		Y8d0aqcqrpnTGZMntstP0XVY0jM=
 		</data>
 		<key>ios-arm64/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>ios-arm64/PostHog.framework/PostHog</key>
 		<data>
-		RkSLdoeALTVcFaVQk+6BiBoOhC8=
+		NehbDdUInhzaujtqgrtl7DesQjY=
 		</data>
 		<key>ios-arm64/PostHog.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		4ZHbGFriFns+N0xK84zDt1NSJOk=
+		xHHCYyfh+OReiUo1+PmwWRcblWQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		4ZHbGFriFns+N0xK84zDt1NSJOk=
+		xHHCYyfh+OReiUo1+PmwWRcblWQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/PostHog</key>
 		<data>
-		cY5qlJNHRUsWa52eF1DfV4zs7Jk=
+		XS9d3keDnfQ2Nk0zGyN+fey8wUU=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -102,7 +102,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/_CodeSignature/CodeResources</key>
 		<data>
-		HJmeu91ssd4E9mWAolmJ5tmWvHw=
+		7cnthWm9tpFD4Q/5pBaFT/dalFA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -144,11 +144,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			w9D8SuLvfJq9eDDv0om+Idk0RO8=
+			Y8d0aqcqrpnTGZMntstP0XVY0jM=
 			</data>
 			<key>hash2</key>
 			<data>
-			4Jn2iYNvRi4aUPaB/AE8r6DblQT3W5SVCpI2hO9/uF0=
+			WNrpJ8zVI+NTH0auptJhJ0NNsdV5xLvFS4m7ZNO5lLs=
 			</data>
 		</dict>
 		<key>ios-arm64/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -199,11 +199,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RkSLdoeALTVcFaVQk+6BiBoOhC8=
+			NehbDdUInhzaujtqgrtl7DesQjY=
 			</data>
 			<key>hash2</key>
 			<data>
-			cdZoeggrHWV7uoj28bbLxjjU3kZTLB1nL1FcNb1qBi0=
+			sXk1RlK+kxqGhiY5748tsmxrqIx88PUzcPZuwRtvZUo=
 			</data>
 		</dict>
 		<key>ios-arm64/PostHog.framework/PrivacyInfo.xcprivacy</key>
@@ -254,11 +254,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4ZHbGFriFns+N0xK84zDt1NSJOk=
+			xHHCYyfh+OReiUo1+PmwWRcblWQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			9bVU0MdCyFqb+XDNVRw7d0oyBz3EulsZ7lCQucXBk5c=
+			q0oxIs3HQbsQ9sU0dnVU1gxua2ke/A/7im9DPtMDgBM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -298,11 +298,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4ZHbGFriFns+N0xK84zDt1NSJOk=
+			xHHCYyfh+OReiUo1+PmwWRcblWQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			9bVU0MdCyFqb+XDNVRw7d0oyBz3EulsZ7lCQucXBk5c=
+			q0oxIs3HQbsQ9sU0dnVU1gxua2ke/A/7im9DPtMDgBM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -353,11 +353,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cY5qlJNHRUsWa52eF1DfV4zs7Jk=
+			XS9d3keDnfQ2Nk0zGyN+fey8wUU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Hi5XYABQxFAOF5/JWCmKpIiIc+sbFYYMm0Lf7GOft5E=
+			74a9eeJgeqNWOM1TPzT8jNbRmK1tvTud/u2lSiahWnM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/PrivacyInfo.xcprivacy</key>
@@ -375,11 +375,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HJmeu91ssd4E9mWAolmJ5tmWvHw=
+			7cnthWm9tpFD4Q/5pBaFT/dalFA=
 			</data>
 			<key>hash2</key>
 			<data>
-			3YvYXukpXPLbc32e2oSKX6/Qx3bgjvhooTgkSw/UJTs=
+			XLc1tSIFbFOGcYLcTkVwdYFzOMeJqSg2/KkStFtj5nQ=
 			</data>
 		</dict>
 	</dict>
