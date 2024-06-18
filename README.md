@@ -22,6 +22,7 @@ After dependency is continue processing, go to INFO tab, and setup some necessar
 
 > ElevenKey : ***Paste here key value***
 
+
 ## Optional Info.plist setup
 *ASK YOURN MANAGER ABOUT THIS*
 
@@ -31,6 +32,12 @@ Pod
 #### Next step is enable **Push Notification** on Capability editor:
 
 ![enter image description here](https://i.imgur.com/bg1UMSz.png)
+
+#### Hide status bar:
+
+![enter image description here](https://imgur.com/TKwlL20.png)
+
+
 
 #### Review your Deployment Info tab, accordint to image
 **Enable here ALL AVAILABLE project orientation!** 
