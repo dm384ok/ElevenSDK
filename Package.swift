@@ -12,20 +12,14 @@ let package = Package(
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "ElevenSDK",
-            targets: ["ElevenSDK"]),
+            targets: ["ElevenSDK"]
+        )
     ],
 
     dependencies: [
-        
-        .package(
-            url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework.git", exact: "6.14.3"),
-               
-        .package(
-                   url: "https://github.com/facebook/facebook-ios-sdk.git", exact: "17.0.0"),
-            
-        .package(
-                url: "https://github.com/OneSignal/OneSignal-iOS-SDK",   from: "5.2.0"),
-
+        .package(url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework.git", exact: "6.14.3"),
+        .package(url: "https://github.com/facebook/facebook-ios-sdk.git", exact: "17.0.0"),
+        .package(url: "https://github.com/OneSignal/OneSignal-iOS-SDK",   from: "5.2.0")
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
@@ -36,7 +30,8 @@ let package = Package(
             dependencies: [
                 .target(name: "WonderPush"),
                 .target(name: "PostHog"),
-                
+                .target(name: "UnityAds"),
+
                 .product(name: "OneSignalFramework", package: "OneSignal-iOS-SDK"),
                 .product(name: "OneSignalInAppMessages", package: "OneSignal-iOS-SDK"),
                 .product(name: "OneSignalLocation", package: "OneSignal-iOS-SDK"),
@@ -44,16 +39,21 @@ let package = Package(
 
                 .product(name: "AppsFlyerLib", package: "AppsFlyerFramework"),
                 .product(name: "FacebookCore", package: "facebook-ios-sdk"),
-                .product(name: "FacebookAEM", package: "facebook-ios-sdk"),
+                .product(name: "FacebookAEM", package: "facebook-ios-sdk")
             ]
         ),
         
         .binaryTarget(
             name: "WonderPush",
             path: "./WonderPush.xcframework"),
+        
         .binaryTarget(
             name: "PostHog",
             path: "./PostHog.xcframework"),
+        
+        .binaryTarget(
+            name: "UnityAds",
+            path: "./UnityAds.xcframework")
 
     ],
     swiftLanguageVersions: [.v5]

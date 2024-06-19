@@ -106,7 +106,7 @@
 		</data>
 		<key>ios-arm64/WonderPush.framework/WonderPush</key>
 		<data>
-		opNSbtAiW4mVk4zWzJE34+eRRDs=
+		i5uD7RTk68DkA4a5YKMGfe1FXUc=
 		</data>
 		<key>ios-arm64/WonderPush.framework/WonderPush.storyboardc/7Q1-Q4-Bvp-view-TR0-Qq-M8K.nib</key>
 		<data>
@@ -444,11 +444,11 @@
 		</data>
 		<key>ios-arm64/dSYMs/WonderPush.framework.dSYM/Contents/Resources/DWARF/WonderPush</key>
 		<data>
-		QT0pcyY5BGvM/nkKE93OSMToTM8=
+		ZvoXoAbWUWTkPR0yO9LCEZK7tBI=
 		</data>
 		<key>ios-arm64/dSYMs/WonderPush.framework.dSYM/Contents/Resources/Relocations/aarch64/WonderPush.yml</key>
 		<data>
-		5kCNluLW0xMLJJXp4qdZO5Tat4s=
+		84CFY7/HGfKpmoKIsx1dZSX0IDI=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Headers/InAppMessaging.h</key>
 		<data>
@@ -568,7 +568,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WonderPush</key>
 		<data>
-		5dZELmiESgyJVOuWOlviIcoX0Fg=
+		pHBH2Iihw4fwhaqFUtw37DNqlsY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WonderPush.storyboardc/7Q1-Q4-Bvp-view-TR0-Qq-M8K.nib</key>
 		<data>
@@ -906,15 +906,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/WonderPush.framework.dSYM/Contents/Resources/DWARF/WonderPush</key>
 		<data>
-		Ptfh/PMr+g2YGM53dB4fpLS+5/M=
+		9dq18A5M+83irblSbrSsDBm9JsQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/WonderPush.framework.dSYM/Contents/Resources/Relocations/aarch64/WonderPush.yml</key>
 		<data>
-		JbBdQYnYbR7AjSTjJ/VMdfXcltk=
+		qs8N5goV5ySfLSBGdIG3RbjNI5U=
 		</data>
 		<key>ios-arm64_x86_64-simulator/dSYMs/WonderPush.framework.dSYM/Contents/Resources/Relocations/x86_64/WonderPush.yml</key>
 		<data>
-		dxJyKYxjbWIJUvLESurO35cH4e4=
+		6ipLT9VfdIkfKEnYqP7zpQQGh+Q=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -1198,11 +1198,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			opNSbtAiW4mVk4zWzJE34+eRRDs=
+			i5uD7RTk68DkA4a5YKMGfe1FXUc=
 			</data>
 			<key>hash2</key>
 			<data>
-			XVgrAdL2EfcuaIjHsPY0T9fdAFw212JZGd2nTpiql6Y=
+			JOsmWkazT4xk6O3naU73etXo1ngEaK2J+xzULWokJRU=
 			</data>
 		</dict>
 		<key>ios-arm64/WonderPush.framework/WonderPush.storyboardc/7Q1-Q4-Bvp-view-TR0-Qq-M8K.nib</key>
@@ -1728,22 +1728,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QT0pcyY5BGvM/nkKE93OSMToTM8=
+			ZvoXoAbWUWTkPR0yO9LCEZK7tBI=
 			</data>
 			<key>hash2</key>
 			<data>
-			QWXmRWcxnIy2MCkW/OzB0V4PxqcCcESADi9wtNlfUz4=
+			KmqmJ5ycX9pXorZDY8YUqon8p/vS/BWZKFoEuHlYVi0=
 			</data>
 		</dict>
 		<key>ios-arm64/dSYMs/WonderPush.framework.dSYM/Contents/Resources/Relocations/aarch64/WonderPush.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5kCNluLW0xMLJJXp4qdZO5Tat4s=
+			84CFY7/HGfKpmoKIsx1dZSX0IDI=
 			</data>
 			<key>hash2</key>
 			<data>
-			L3AW42b9GDEw5jR5XO9VkH6DlSlJUW6GQrvtvLfNL6o=
+			NautdQDKmHXp28RzEIMn17AeJMYVcJEtEBj20d/C9T0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/Headers/InAppMessaging.h</key>
@@ -2069,11 +2069,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5dZELmiESgyJVOuWOlviIcoX0Fg=
+			pHBH2Iihw4fwhaqFUtw37DNqlsY=
 			</data>
 			<key>hash2</key>
 			<data>
-			2MSVFADOAoGBRom2vnB0SK/lh9eay2eHoRlIt0McDsk=
+			jMOmLfTrzJ4fv0nLkE/Bx/Pougw2aGI5CiTYmZZBgQM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/WonderPush.framework/WonderPush.storyboardc/7Q1-Q4-Bvp-view-TR0-Qq-M8K.nib</key>
@@ -2599,33 +2599,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ptfh/PMr+g2YGM53dB4fpLS+5/M=
+			9dq18A5M+83irblSbrSsDBm9JsQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			JP+rPmxcvZbVlqjXzA/bY0z8M6taKKWnaeKhZSyD1Wo=
+			rateCFIDPs4cANdKBs0GNklruqdWwO4HTS5+gG3sqPk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/WonderPush.framework.dSYM/Contents/Resources/Relocations/aarch64/WonderPush.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JbBdQYnYbR7AjSTjJ/VMdfXcltk=
+			qs8N5goV5ySfLSBGdIG3RbjNI5U=
 			</data>
 			<key>hash2</key>
 			<data>
-			9lfh+c5Ld6gVRgTE5wO7gYRSweLKvdVUmFcu/eOxgH0=
+			HBk3M3wc950zala0rCZI615CSLaWOu3j8zA7tEZkB+g=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/dSYMs/WonderPush.framework.dSYM/Contents/Resources/Relocations/x86_64/WonderPush.yml</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dxJyKYxjbWIJUvLESurO35cH4e4=
+			6ipLT9VfdIkfKEnYqP7zpQQGh+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			3HwpxE8tGWECTCpS7uTCyawOb4w0gPu64etXWq/EYfI=
+			36GiDMwlMIjtpc7SO5dymT/dUeINI5ThmOfOQTtpj98=
 			</data>
 		</dict>
 	</dict>

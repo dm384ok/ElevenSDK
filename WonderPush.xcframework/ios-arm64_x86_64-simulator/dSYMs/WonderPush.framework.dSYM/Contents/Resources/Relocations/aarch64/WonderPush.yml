@@ -4,238 +4,238 @@ binary-path:     '/Users/builder/Library/Developer/Xcode/DerivedData/WonderPush-
 relocations:
   - { offsetInCU: 0x34, offset: 0xAFA82, size: 0x8, addend: 0x0, symName: _WonderPushVersionString, symObjAddr: 0x0, symBinAddr: 0x82AE0, symSize: 0x0 }
   - { offsetInCU: 0x69, offset: 0xAFAB7, size: 0x8, addend: 0x0, symName: _WonderPushVersionNumber, symObjAddr: 0x30, symBinAddr: 0x82B10, symSize: 0x0 }
-  - { offsetInCU: 0x27, offset: 0xAFAF4, size: 0x8, addend: 0x0, symName: '-[WPIAMImpressionRecord initWithReportingData:lastImpressionTimestamp:impressionCount:]', symObjAddr: 0x0, symBinAddr: 0x5660, symSize: 0x90 }
+  - { offsetInCU: 0x27, offset: 0xAFAF4, size: 0x8, addend: 0x0, symName: '-[WPIAMImpressionRecord initWithReportingData:lastImpressionTimestamp:impressionCount:]', symObjAddr: 0x0, symBinAddr: 0x566C, symSize: 0x90 }
   - { offsetInCU: 0x41, offset: 0xAFB0E, size: 0x8, addend: 0x0, symName: _WPIAM_UserDefaultsKeyForImpressions, symObjAddr: 0x12E8, symBinAddr: 0xA42E0, symSize: 0x0 }
   - { offsetInCU: 0x61, offset: 0xAFB2E, size: 0x8, addend: 0x0, symName: _WPIAM_UserDefaultsKeyForLastImpressionTimestamp, symObjAddr: 0x12F0, symBinAddr: 0xA42E8, symSize: 0x0 }
   - { offsetInCU: 0x77, offset: 0xAFB44, size: 0x8, addend: 0x0, symName: _WPIAM_ImpressionDictKeyForCount, symObjAddr: 0x12F8, symBinAddr: 0xA42F0, symSize: 0x0 }
   - { offsetInCU: 0x8D, offset: 0xAFB5A, size: 0x8, addend: 0x0, symName: _WPIAM_ImpressionDictKeyForLastImpressionDateTimestamp, symObjAddr: 0x1300, symBinAddr: 0xA42F8, symSize: 0x0 }
   - { offsetInCU: 0xA3, offset: 0xAFB70, size: 0x8, addend: 0x0, symName: _WPIAM_ImpressionDictKeyForReportingData, symObjAddr: 0x1308, symBinAddr: 0xA4300, symSize: 0x0 }
-  - { offsetInCU: 0x1E2, offset: 0xAFCAF, size: 0x8, addend: 0x0, symName: '-[WPIAMImpressionRecord initWithReportingData:lastImpressionTimestamp:impressionCount:]', symObjAddr: 0x0, symBinAddr: 0x5660, symSize: 0x90 }
-  - { offsetInCU: 0x249, offset: 0xAFD16, size: 0x8, addend: 0x0, symName: '-[WPIAMImpressionRecord initWithStorageDictionary:]', symObjAddr: 0x90, symBinAddr: 0x56F0, symSize: 0x158 }
-  - { offsetInCU: 0x2F4, offset: 0xAFDC1, size: 0x8, addend: 0x0, symName: '-[WPIAMImpressionRecord description]', symObjAddr: 0x1E8, symBinAddr: 0x5848, symSize: 0x7C }
-  - { offsetInCU: 0x32B, offset: 0xAFDF8, size: 0x8, addend: 0x0, symName: '-[WPIAMImpressionRecord reportingData]', symObjAddr: 0x264, symBinAddr: 0x58C4, symSize: 0x8 }
-  - { offsetInCU: 0x362, offset: 0xAFE2F, size: 0x8, addend: 0x0, symName: '-[WPIAMImpressionRecord lastImpressionTimestamp]', symObjAddr: 0x26C, symBinAddr: 0x58CC, symSize: 0x8 }
-  - { offsetInCU: 0x397, offset: 0xAFE64, size: 0x8, addend: 0x0, symName: '-[WPIAMImpressionRecord impressionCount]', symObjAddr: 0x274, symBinAddr: 0x58D4, symSize: 0x8 }
-  - { offsetInCU: 0x3CE, offset: 0xAFE9B, size: 0x8, addend: 0x0, symName: '-[WPIAMImpressionRecord .cxx_destruct]', symObjAddr: 0x27C, symBinAddr: 0x58DC, symSize: 0xC }
-  - { offsetInCU: 0x401, offset: 0xAFECE, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults initWithUserDefaults:]', symObjAddr: 0x288, symBinAddr: 0x58E8, symSize: 0x78 }
-  - { offsetInCU: 0x448, offset: 0xAFF15, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults lastRateLimitedInAppDisplayTime]', symObjAddr: 0x300, symBinAddr: 0x5960, symSize: 0x10 }
-  - { offsetInCU: 0x47F, offset: 0xAFF4C, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults setLastRateLimitedInAppDisplayTime:]', symObjAddr: 0x310, symBinAddr: 0x5970, symSize: 0x30 }
-  - { offsetInCU: 0x4C2, offset: 0xAFF8F, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults fetchImpressionArrayFromStorage]', symObjAddr: 0x340, symBinAddr: 0x59A0, symSize: 0xAC }
-  - { offsetInCU: 0x526, offset: 0xAFFF3, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults recordNewImpressionForReportingData:withStartTimestampInSeconds:]', symObjAddr: 0x3EC, symBinAddr: 0x5A4C, symSize: 0x724 }
-  - { offsetInCU: 0x64D, offset: 0xB011A, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults getImpressions]', symObjAddr: 0xB10, symBinAddr: 0x6170, symSize: 0x15C }
-  - { offsetInCU: 0x6DA, offset: 0xB01A7, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults getCampaignIdsFromImpressions]', symObjAddr: 0xC6C, symBinAddr: 0x62CC, symSize: 0x1CC }
-  - { offsetInCU: 0x767, offset: 0xB0234, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults cleanupImpressions]', symObjAddr: 0xE38, symBinAddr: 0x6498, symSize: 0x40 }
-  - { offsetInCU: 0x79A, offset: 0xB0267, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults defaults]', symObjAddr: 0xE78, symBinAddr: 0x64D8, symSize: 0x8 }
-  - { offsetInCU: 0x7D1, offset: 0xB029E, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults setDefaults:]', symObjAddr: 0xE80, symBinAddr: 0x64E0, symSize: 0xC }
-  - { offsetInCU: 0x812, offset: 0xB02DF, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults .cxx_destruct]', symObjAddr: 0xE8C, symBinAddr: 0x64EC, symSize: 0xC }
-  - { offsetInCU: 0x27, offset: 0xB03B9, size: 0x8, addend: 0x0, symName: '+[WPLiveActivityAPIClient sharedClient]', symObjAddr: 0x0, symBinAddr: 0x64F8, symSize: 0x40 }
-  - { offsetInCU: 0x35, offset: 0xB03C7, size: 0x8, addend: 0x0, symName: '+[WPLiveActivityAPIClient sharedClient]', symObjAddr: 0x0, symBinAddr: 0x64F8, symSize: 0x40 }
+  - { offsetInCU: 0x1E2, offset: 0xAFCAF, size: 0x8, addend: 0x0, symName: '-[WPIAMImpressionRecord initWithReportingData:lastImpressionTimestamp:impressionCount:]', symObjAddr: 0x0, symBinAddr: 0x566C, symSize: 0x90 }
+  - { offsetInCU: 0x249, offset: 0xAFD16, size: 0x8, addend: 0x0, symName: '-[WPIAMImpressionRecord initWithStorageDictionary:]', symObjAddr: 0x90, symBinAddr: 0x56FC, symSize: 0x158 }
+  - { offsetInCU: 0x2F4, offset: 0xAFDC1, size: 0x8, addend: 0x0, symName: '-[WPIAMImpressionRecord description]', symObjAddr: 0x1E8, symBinAddr: 0x5854, symSize: 0x7C }
+  - { offsetInCU: 0x32B, offset: 0xAFDF8, size: 0x8, addend: 0x0, symName: '-[WPIAMImpressionRecord reportingData]', symObjAddr: 0x264, symBinAddr: 0x58D0, symSize: 0x8 }
+  - { offsetInCU: 0x362, offset: 0xAFE2F, size: 0x8, addend: 0x0, symName: '-[WPIAMImpressionRecord lastImpressionTimestamp]', symObjAddr: 0x26C, symBinAddr: 0x58D8, symSize: 0x8 }
+  - { offsetInCU: 0x397, offset: 0xAFE64, size: 0x8, addend: 0x0, symName: '-[WPIAMImpressionRecord impressionCount]', symObjAddr: 0x274, symBinAddr: 0x58E0, symSize: 0x8 }
+  - { offsetInCU: 0x3CE, offset: 0xAFE9B, size: 0x8, addend: 0x0, symName: '-[WPIAMImpressionRecord .cxx_destruct]', symObjAddr: 0x27C, symBinAddr: 0x58E8, symSize: 0xC }
+  - { offsetInCU: 0x401, offset: 0xAFECE, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults initWithUserDefaults:]', symObjAddr: 0x288, symBinAddr: 0x58F4, symSize: 0x78 }
+  - { offsetInCU: 0x448, offset: 0xAFF15, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults lastRateLimitedInAppDisplayTime]', symObjAddr: 0x300, symBinAddr: 0x596C, symSize: 0x10 }
+  - { offsetInCU: 0x47F, offset: 0xAFF4C, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults setLastRateLimitedInAppDisplayTime:]', symObjAddr: 0x310, symBinAddr: 0x597C, symSize: 0x30 }
+  - { offsetInCU: 0x4C2, offset: 0xAFF8F, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults fetchImpressionArrayFromStorage]', symObjAddr: 0x340, symBinAddr: 0x59AC, symSize: 0xAC }
+  - { offsetInCU: 0x526, offset: 0xAFFF3, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults recordNewImpressionForReportingData:withStartTimestampInSeconds:]', symObjAddr: 0x3EC, symBinAddr: 0x5A58, symSize: 0x724 }
+  - { offsetInCU: 0x64D, offset: 0xB011A, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults getImpressions]', symObjAddr: 0xB10, symBinAddr: 0x617C, symSize: 0x15C }
+  - { offsetInCU: 0x6DA, offset: 0xB01A7, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults getCampaignIdsFromImpressions]', symObjAddr: 0xC6C, symBinAddr: 0x62D8, symSize: 0x1CC }
+  - { offsetInCU: 0x767, offset: 0xB0234, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults cleanupImpressions]', symObjAddr: 0xE38, symBinAddr: 0x64A4, symSize: 0x40 }
+  - { offsetInCU: 0x79A, offset: 0xB0267, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults defaults]', symObjAddr: 0xE78, symBinAddr: 0x64E4, symSize: 0x8 }
+  - { offsetInCU: 0x7D1, offset: 0xB029E, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults setDefaults:]', symObjAddr: 0xE80, symBinAddr: 0x64EC, symSize: 0xC }
+  - { offsetInCU: 0x812, offset: 0xB02DF, size: 0x8, addend: 0x0, symName: '-[WPIAMBookKeeperViaUserDefaults .cxx_destruct]', symObjAddr: 0xE8C, symBinAddr: 0x64F8, symSize: 0xC }
+  - { offsetInCU: 0x27, offset: 0xB03B9, size: 0x8, addend: 0x0, symName: '+[WPLiveActivityAPIClient sharedClient]', symObjAddr: 0x0, symBinAddr: 0x6504, symSize: 0x40 }
+  - { offsetInCU: 0x35, offset: 0xB03C7, size: 0x8, addend: 0x0, symName: '+[WPLiveActivityAPIClient sharedClient]', symObjAddr: 0x0, symBinAddr: 0x6504, symSize: 0x40 }
   - { offsetInCU: 0x5F, offset: 0xB03F1, size: 0x8, addend: 0x0, symName: _sharedClient.sharedClient, symObjAddr: 0x2A98, symBinAddr: 0xCEC68, symSize: 0x0 }
   - { offsetInCU: 0x75, offset: 0xB0407, size: 0x8, addend: 0x0, symName: _sharedClient.onceToken, symObjAddr: 0x2AA0, symBinAddr: 0xCEC70, symSize: 0x0 }
-  - { offsetInCU: 0x1A2, offset: 0xB0534, size: 0x8, addend: 0x0, symName: '___39+[WPLiveActivityAPIClient sharedClient]_block_invoke', symObjAddr: 0x40, symBinAddr: 0x6538, symSize: 0x8C }
-  - { offsetInCU: 0x20A, offset: 0xB059C, size: 0x8, addend: 0x0, symName: '-[WPLiveActivityAPIClient decorateRequestParams:]', symObjAddr: 0xCC, symBinAddr: 0x65C4, symSize: 0x1D0 }
-  - { offsetInCU: 0x27, offset: 0xB07E7, size: 0x8, addend: 0x0, symName: '+[WPIAMImageOnlyViewController instantiateViewControllerWithResourceBundle:displayMessage:controllerDelegate:timeFetcher:]', symObjAddr: 0x0, symBinAddr: 0x6794, symSize: 0x114 }
-  - { offsetInCU: 0x3BD, offset: 0xB0B7D, size: 0x8, addend: 0x0, symName: '+[WPIAMImageOnlyViewController instantiateViewControllerWithResourceBundle:displayMessage:controllerDelegate:timeFetcher:]', symObjAddr: 0x0, symBinAddr: 0x6794, symSize: 0x114 }
-  - { offsetInCU: 0x46D, offset: 0xB0C2D, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController inAppMessage]', symObjAddr: 0x114, symBinAddr: 0x68A8, symSize: 0x4 }
-  - { offsetInCU: 0x4A2, offset: 0xB0C62, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController closeButtonClicked:]', symObjAddr: 0x118, symBinAddr: 0x68AC, symSize: 0x8 }
-  - { offsetInCU: 0x4DF, offset: 0xB0C9F, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController setupRecognizers]', symObjAddr: 0x120, symBinAddr: 0x68B4, symSize: 0x158 }
-  - { offsetInCU: 0x541, offset: 0xB0D01, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController messageTapped:]', symObjAddr: 0x278, symBinAddr: 0x6A0C, symSize: 0x5C }
-  - { offsetInCU: 0x580, offset: 0xB0D40, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController viewDidLoad]', symObjAddr: 0x2D4, symBinAddr: 0x6A68, symSize: 0x314 }
-  - { offsetInCU: 0x5D2, offset: 0xB0D92, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController pointInside:view:withEvent:]', symObjAddr: 0x5E8, symBinAddr: 0x6D7C, symSize: 0x184 }
-  - { offsetInCU: 0x661, offset: 0xB0E21, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController viewDidLayoutSubviews]', symObjAddr: 0x76C, symBinAddr: 0x6F00, symSize: 0x264 }
-  - { offsetInCU: 0x71F, offset: 0xB0EDF, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController viewWillAppear:]', symObjAddr: 0x9D0, symBinAddr: 0x7164, symSize: 0x74 }
-  - { offsetInCU: 0x762, offset: 0xB0F22, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController flashCloseButton:]', symObjAddr: 0xA44, symBinAddr: 0x71D8, symSize: 0xA8 }
-  - { offsetInCU: 0x7A1, offset: 0xB0F61, size: 0x8, addend: 0x0, symName: '___49-[WPIAMImageOnlyViewController flashCloseButton:]_block_invoke', symObjAddr: 0xAEC, symBinAddr: 0x7280, symSize: 0x10 }
-  - { offsetInCU: 0x7DC, offset: 0xB0F9C, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0xAFC, symBinAddr: 0x7290, symSize: 0x8 }
-  - { offsetInCU: 0x803, offset: 0xB0FC3, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0xB04, symBinAddr: 0x7298, symSize: 0x8 }
-  - { offsetInCU: 0x822, offset: 0xB0FE2, size: 0x8, addend: 0x0, symName: '___49-[WPIAMImageOnlyViewController flashCloseButton:]_block_invoke.27', symObjAddr: 0xB0C, symBinAddr: 0x72A0, symSize: 0x4 }
-  - { offsetInCU: 0x855, offset: 0xB1015, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController viewToAnimate]', symObjAddr: 0xB10, symBinAddr: 0x72A4, symSize: 0x4 }
-  - { offsetInCU: 0x88A, offset: 0xB104A, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController imageOnlyMessage]', symObjAddr: 0xB14, symBinAddr: 0x72A8, symSize: 0x10 }
-  - { offsetInCU: 0x8C1, offset: 0xB1081, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController setImageOnlyMessage:]', symObjAddr: 0xB24, symBinAddr: 0x72B8, symSize: 0x14 }
-  - { offsetInCU: 0x902, offset: 0xB10C2, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController backgroundCloseButton]', symObjAddr: 0xB38, symBinAddr: 0x72CC, symSize: 0x20 }
-  - { offsetInCU: 0x939, offset: 0xB10F9, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController setBackgroundCloseButton:]', symObjAddr: 0xB58, symBinAddr: 0x72EC, symSize: 0x14 }
-  - { offsetInCU: 0x97A, offset: 0xB113A, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController closeButtonPositionInsideHorizontalConstraint]', symObjAddr: 0xB6C, symBinAddr: 0x7300, symSize: 0x20 }
-  - { offsetInCU: 0x9B1, offset: 0xB1171, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController setCloseButtonPositionInsideHorizontalConstraint:]', symObjAddr: 0xB8C, symBinAddr: 0x7320, symSize: 0x14 }
-  - { offsetInCU: 0x9F2, offset: 0xB11B2, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController closeButtonPositionInsideVerticalConstraint]', symObjAddr: 0xBA0, symBinAddr: 0x7334, symSize: 0x20 }
-  - { offsetInCU: 0xA29, offset: 0xB11E9, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController setCloseButtonPositionInsideVerticalConstraint:]', symObjAddr: 0xBC0, symBinAddr: 0x7354, symSize: 0x14 }
-  - { offsetInCU: 0xA6A, offset: 0xB122A, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController containerView]', symObjAddr: 0xBD4, symBinAddr: 0x7368, symSize: 0x20 }
-  - { offsetInCU: 0xAA1, offset: 0xB1261, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController setContainerView:]', symObjAddr: 0xBF4, symBinAddr: 0x7388, symSize: 0x14 }
-  - { offsetInCU: 0xAE2, offset: 0xB12A2, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController imageView]', symObjAddr: 0xC08, symBinAddr: 0x739C, symSize: 0x20 }
-  - { offsetInCU: 0xB19, offset: 0xB12D9, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController setImageView:]', symObjAddr: 0xC28, symBinAddr: 0x73BC, symSize: 0x14 }
-  - { offsetInCU: 0xB5A, offset: 0xB131A, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController closeButton]', symObjAddr: 0xC3C, symBinAddr: 0x73D0, symSize: 0x20 }
-  - { offsetInCU: 0xB91, offset: 0xB1351, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController setCloseButton:]', symObjAddr: 0xC5C, symBinAddr: 0x73F0, symSize: 0x14 }
-  - { offsetInCU: 0xBD2, offset: 0xB1392, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController imageOriginalSize]', symObjAddr: 0xC70, symBinAddr: 0x7404, symSize: 0x14 }
-  - { offsetInCU: 0xC07, offset: 0xB13C7, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController setImageOriginalSize:]', symObjAddr: 0xC84, symBinAddr: 0x7418, symSize: 0x14 }
-  - { offsetInCU: 0xC46, offset: 0xB1406, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController .cxx_destruct]', symObjAddr: 0xC98, symBinAddr: 0x742C, symSize: 0x8C }
-  - { offsetInCU: 0x27, offset: 0xB15D9, size: 0x8, addend: 0x0, symName: '-[WPSPASTValueNode initWithContext:value:]', symObjAddr: 0x0, symBinAddr: 0x74B8, symSize: 0xA4 }
-  - { offsetInCU: 0x2CB, offset: 0xB187D, size: 0x8, addend: 0x0, symName: '-[WPSPASTValueNode initWithContext:value:]', symObjAddr: 0x0, symBinAddr: 0x74B8, symSize: 0xA4 }
-  - { offsetInCU: 0x322, offset: 0xB18D4, size: 0x8, addend: 0x0, symName: '-[WPSPASTValueNode accept:]', symObjAddr: 0xA4, symBinAddr: 0x755C, symSize: 0x1C }
-  - { offsetInCU: 0x365, offset: 0xB1917, size: 0x8, addend: 0x0, symName: '-[WPSPASTValueNode context]', symObjAddr: 0xC0, symBinAddr: 0x7578, symSize: 0xC }
-  - { offsetInCU: 0x39C, offset: 0xB194E, size: 0x8, addend: 0x0, symName: '-[WPSPASTValueNode value]', symObjAddr: 0xCC, symBinAddr: 0x7584, symSize: 0xC }
-  - { offsetInCU: 0x3D3, offset: 0xB1985, size: 0x8, addend: 0x0, symName: '-[WPSPASTValueNode .cxx_destruct]', symObjAddr: 0xD8, symBinAddr: 0x7590, symSize: 0x30 }
-  - { offsetInCU: 0x406, offset: 0xB19B8, size: 0x8, addend: 0x0, symName: '-[WPSPASTUnknownValueNode initWithContext:key:value:]', symObjAddr: 0x108, symBinAddr: 0x75C0, symSize: 0x98 }
-  - { offsetInCU: 0x46D, offset: 0xB1A1F, size: 0x8, addend: 0x0, symName: '-[WPSPASTUnknownValueNode accept:]', symObjAddr: 0x1A0, symBinAddr: 0x7658, symSize: 0x10 }
-  - { offsetInCU: 0x4B4, offset: 0xB1A66, size: 0x8, addend: 0x0, symName: '-[WPSPASTUnknownValueNode key]', symObjAddr: 0x1B0, symBinAddr: 0x7668, symSize: 0x10 }
-  - { offsetInCU: 0x4EB, offset: 0xB1A9D, size: 0x8, addend: 0x0, symName: '-[WPSPASTUnknownValueNode .cxx_destruct]', symObjAddr: 0x1C0, symBinAddr: 0x7678, symSize: 0x14 }
-  - { offsetInCU: 0x51E, offset: 0xB1AD0, size: 0x8, addend: 0x0, symName: '-[WPSPNullValueNode accept:]', symObjAddr: 0x1D4, symBinAddr: 0x768C, symSize: 0x10 }
-  - { offsetInCU: 0x565, offset: 0xB1B17, size: 0x8, addend: 0x0, symName: '-[WPSPBooleanValueNode accept:]', symObjAddr: 0x1E4, symBinAddr: 0x769C, symSize: 0x10 }
-  - { offsetInCU: 0x5AC, offset: 0xB1B5E, size: 0x8, addend: 0x0, symName: '-[WPSPNumberValueNode accept:]', symObjAddr: 0x1F4, symBinAddr: 0x76AC, symSize: 0x10 }
-  - { offsetInCU: 0x5F3, offset: 0xB1BA5, size: 0x8, addend: 0x0, symName: '-[WPSPStringValueNode accept:]', symObjAddr: 0x204, symBinAddr: 0x76BC, symSize: 0x10 }
-  - { offsetInCU: 0x63A, offset: 0xB1BEC, size: 0x8, addend: 0x0, symName: '-[WPSPRelativeDateValueNode initWithContext:duration:]', symObjAddr: 0x214, symBinAddr: 0x76CC, symSize: 0x90 }
-  - { offsetInCU: 0x691, offset: 0xB1C43, size: 0x8, addend: 0x0, symName: '-[WPSPRelativeDateValueNode initWithContext:value:]', symObjAddr: 0x2A4, symBinAddr: 0x775C, symSize: 0x2C }
-  - { offsetInCU: 0x6E4, offset: 0xB1C96, size: 0x8, addend: 0x0, symName: '-[WPSPRelativeDateValueNode value]', symObjAddr: 0x2D0, symBinAddr: 0x7788, symSize: 0xCC }
-  - { offsetInCU: 0x72B, offset: 0xB1CDD, size: 0x8, addend: 0x0, symName: '-[WPSPRelativeDateValueNode accept:]', symObjAddr: 0x39C, symBinAddr: 0x7854, symSize: 0x10 }
-  - { offsetInCU: 0x772, offset: 0xB1D24, size: 0x8, addend: 0x0, symName: '-[WPSPRelativeDateValueNode duration]', symObjAddr: 0x3AC, symBinAddr: 0x7864, symSize: 0x10 }
-  - { offsetInCU: 0x7A9, offset: 0xB1D5B, size: 0x8, addend: 0x0, symName: '-[WPSPRelativeDateValueNode .cxx_destruct]', symObjAddr: 0x3BC, symBinAddr: 0x7874, symSize: 0x14 }
-  - { offsetInCU: 0x7DC, offset: 0xB1D8E, size: 0x8, addend: 0x0, symName: '-[WPSPDateValueNode accept:]', symObjAddr: 0x3D0, symBinAddr: 0x7888, symSize: 0x10 }
-  - { offsetInCU: 0x823, offset: 0xB1DD5, size: 0x8, addend: 0x0, symName: '-[WPSPDurationValueNode initWithContext:duration:]', symObjAddr: 0x3E0, symBinAddr: 0x7898, symSize: 0x8C }
-  - { offsetInCU: 0x87A, offset: 0xB1E2C, size: 0x8, addend: 0x0, symName: '+[WPSPDurationValueNode numberWithDuration:]', symObjAddr: 0x46C, symBinAddr: 0x7924, symSize: 0xD0 }
-  - { offsetInCU: 0x8ED, offset: 0xB1E9F, size: 0x8, addend: 0x0, symName: '-[WPSPDurationValueNode accept:]', symObjAddr: 0x53C, symBinAddr: 0x79F4, symSize: 0x10 }
-  - { offsetInCU: 0x934, offset: 0xB1EE6, size: 0x8, addend: 0x0, symName: '-[WPSPGeoLocationValueNode accept:]', symObjAddr: 0x54C, symBinAddr: 0x7A04, symSize: 0x10 }
-  - { offsetInCU: 0x97B, offset: 0xB1F2D, size: 0x8, addend: 0x0, symName: '-[WPSPGeoBoxValueNode accept:]', symObjAddr: 0x55C, symBinAddr: 0x7A14, symSize: 0x10 }
-  - { offsetInCU: 0x9C2, offset: 0xB1F74, size: 0x8, addend: 0x0, symName: '-[WPSPGeoCircleValueNode accept:]', symObjAddr: 0x56C, symBinAddr: 0x7A24, symSize: 0x10 }
-  - { offsetInCU: 0xA09, offset: 0xB1FBB, size: 0x8, addend: 0x0, symName: '-[WPSPGeoPolygonValueNode accept:]', symObjAddr: 0x57C, symBinAddr: 0x7A34, symSize: 0x10 }
-  - { offsetInCU: 0x27, offset: 0xB20E1, size: 0x8, addend: 0x0, symName: '-[WPRateLimit initWithKey:timeToLive:limit:]', symObjAddr: 0x0, symBinAddr: 0x7A44, symSize: 0x90 }
+  - { offsetInCU: 0x1A2, offset: 0xB0534, size: 0x8, addend: 0x0, symName: '___39+[WPLiveActivityAPIClient sharedClient]_block_invoke', symObjAddr: 0x40, symBinAddr: 0x6544, symSize: 0x8C }
+  - { offsetInCU: 0x20A, offset: 0xB059C, size: 0x8, addend: 0x0, symName: '-[WPLiveActivityAPIClient decorateRequestParams:]', symObjAddr: 0xCC, symBinAddr: 0x65D0, symSize: 0x1D0 }
+  - { offsetInCU: 0x27, offset: 0xB07E7, size: 0x8, addend: 0x0, symName: '+[WPIAMImageOnlyViewController instantiateViewControllerWithResourceBundle:displayMessage:controllerDelegate:timeFetcher:]', symObjAddr: 0x0, symBinAddr: 0x67A0, symSize: 0x114 }
+  - { offsetInCU: 0x3BD, offset: 0xB0B7D, size: 0x8, addend: 0x0, symName: '+[WPIAMImageOnlyViewController instantiateViewControllerWithResourceBundle:displayMessage:controllerDelegate:timeFetcher:]', symObjAddr: 0x0, symBinAddr: 0x67A0, symSize: 0x114 }
+  - { offsetInCU: 0x46D, offset: 0xB0C2D, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController inAppMessage]', symObjAddr: 0x114, symBinAddr: 0x68B4, symSize: 0x4 }
+  - { offsetInCU: 0x4A2, offset: 0xB0C62, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController closeButtonClicked:]', symObjAddr: 0x118, symBinAddr: 0x68B8, symSize: 0x8 }
+  - { offsetInCU: 0x4DF, offset: 0xB0C9F, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController setupRecognizers]', symObjAddr: 0x120, symBinAddr: 0x68C0, symSize: 0x158 }
+  - { offsetInCU: 0x541, offset: 0xB0D01, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController messageTapped:]', symObjAddr: 0x278, symBinAddr: 0x6A18, symSize: 0x5C }
+  - { offsetInCU: 0x580, offset: 0xB0D40, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController viewDidLoad]', symObjAddr: 0x2D4, symBinAddr: 0x6A74, symSize: 0x314 }
+  - { offsetInCU: 0x5D2, offset: 0xB0D92, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController pointInside:view:withEvent:]', symObjAddr: 0x5E8, symBinAddr: 0x6D88, symSize: 0x184 }
+  - { offsetInCU: 0x661, offset: 0xB0E21, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController viewDidLayoutSubviews]', symObjAddr: 0x76C, symBinAddr: 0x6F0C, symSize: 0x264 }
+  - { offsetInCU: 0x71F, offset: 0xB0EDF, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController viewWillAppear:]', symObjAddr: 0x9D0, symBinAddr: 0x7170, symSize: 0x74 }
+  - { offsetInCU: 0x762, offset: 0xB0F22, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController flashCloseButton:]', symObjAddr: 0xA44, symBinAddr: 0x71E4, symSize: 0xA8 }
+  - { offsetInCU: 0x7A1, offset: 0xB0F61, size: 0x8, addend: 0x0, symName: '___49-[WPIAMImageOnlyViewController flashCloseButton:]_block_invoke', symObjAddr: 0xAEC, symBinAddr: 0x728C, symSize: 0x10 }
+  - { offsetInCU: 0x7DC, offset: 0xB0F9C, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0xAFC, symBinAddr: 0x729C, symSize: 0x8 }
+  - { offsetInCU: 0x803, offset: 0xB0FC3, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0xB04, symBinAddr: 0x72A4, symSize: 0x8 }
+  - { offsetInCU: 0x822, offset: 0xB0FE2, size: 0x8, addend: 0x0, symName: '___49-[WPIAMImageOnlyViewController flashCloseButton:]_block_invoke.27', symObjAddr: 0xB0C, symBinAddr: 0x72AC, symSize: 0x4 }
+  - { offsetInCU: 0x855, offset: 0xB1015, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController viewToAnimate]', symObjAddr: 0xB10, symBinAddr: 0x72B0, symSize: 0x4 }
+  - { offsetInCU: 0x88A, offset: 0xB104A, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController imageOnlyMessage]', symObjAddr: 0xB14, symBinAddr: 0x72B4, symSize: 0x10 }
+  - { offsetInCU: 0x8C1, offset: 0xB1081, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController setImageOnlyMessage:]', symObjAddr: 0xB24, symBinAddr: 0x72C4, symSize: 0x14 }
+  - { offsetInCU: 0x902, offset: 0xB10C2, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController backgroundCloseButton]', symObjAddr: 0xB38, symBinAddr: 0x72D8, symSize: 0x20 }
+  - { offsetInCU: 0x939, offset: 0xB10F9, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController setBackgroundCloseButton:]', symObjAddr: 0xB58, symBinAddr: 0x72F8, symSize: 0x14 }
+  - { offsetInCU: 0x97A, offset: 0xB113A, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController closeButtonPositionInsideHorizontalConstraint]', symObjAddr: 0xB6C, symBinAddr: 0x730C, symSize: 0x20 }
+  - { offsetInCU: 0x9B1, offset: 0xB1171, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController setCloseButtonPositionInsideHorizontalConstraint:]', symObjAddr: 0xB8C, symBinAddr: 0x732C, symSize: 0x14 }
+  - { offsetInCU: 0x9F2, offset: 0xB11B2, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController closeButtonPositionInsideVerticalConstraint]', symObjAddr: 0xBA0, symBinAddr: 0x7340, symSize: 0x20 }
+  - { offsetInCU: 0xA29, offset: 0xB11E9, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController setCloseButtonPositionInsideVerticalConstraint:]', symObjAddr: 0xBC0, symBinAddr: 0x7360, symSize: 0x14 }
+  - { offsetInCU: 0xA6A, offset: 0xB122A, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController containerView]', symObjAddr: 0xBD4, symBinAddr: 0x7374, symSize: 0x20 }
+  - { offsetInCU: 0xAA1, offset: 0xB1261, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController setContainerView:]', symObjAddr: 0xBF4, symBinAddr: 0x7394, symSize: 0x14 }
+  - { offsetInCU: 0xAE2, offset: 0xB12A2, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController imageView]', symObjAddr: 0xC08, symBinAddr: 0x73A8, symSize: 0x20 }
+  - { offsetInCU: 0xB19, offset: 0xB12D9, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController setImageView:]', symObjAddr: 0xC28, symBinAddr: 0x73C8, symSize: 0x14 }
+  - { offsetInCU: 0xB5A, offset: 0xB131A, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController closeButton]', symObjAddr: 0xC3C, symBinAddr: 0x73DC, symSize: 0x20 }
+  - { offsetInCU: 0xB91, offset: 0xB1351, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController setCloseButton:]', symObjAddr: 0xC5C, symBinAddr: 0x73FC, symSize: 0x14 }
+  - { offsetInCU: 0xBD2, offset: 0xB1392, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController imageOriginalSize]', symObjAddr: 0xC70, symBinAddr: 0x7410, symSize: 0x14 }
+  - { offsetInCU: 0xC07, offset: 0xB13C7, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController setImageOriginalSize:]', symObjAddr: 0xC84, symBinAddr: 0x7424, symSize: 0x14 }
+  - { offsetInCU: 0xC46, offset: 0xB1406, size: 0x8, addend: 0x0, symName: '-[WPIAMImageOnlyViewController .cxx_destruct]', symObjAddr: 0xC98, symBinAddr: 0x7438, symSize: 0x8C }
+  - { offsetInCU: 0x27, offset: 0xB15D9, size: 0x8, addend: 0x0, symName: '-[WPSPASTValueNode initWithContext:value:]', symObjAddr: 0x0, symBinAddr: 0x74C4, symSize: 0xA4 }
+  - { offsetInCU: 0x2CB, offset: 0xB187D, size: 0x8, addend: 0x0, symName: '-[WPSPASTValueNode initWithContext:value:]', symObjAddr: 0x0, symBinAddr: 0x74C4, symSize: 0xA4 }
+  - { offsetInCU: 0x322, offset: 0xB18D4, size: 0x8, addend: 0x0, symName: '-[WPSPASTValueNode accept:]', symObjAddr: 0xA4, symBinAddr: 0x7568, symSize: 0x1C }
+  - { offsetInCU: 0x365, offset: 0xB1917, size: 0x8, addend: 0x0, symName: '-[WPSPASTValueNode context]', symObjAddr: 0xC0, symBinAddr: 0x7584, symSize: 0xC }
+  - { offsetInCU: 0x39C, offset: 0xB194E, size: 0x8, addend: 0x0, symName: '-[WPSPASTValueNode value]', symObjAddr: 0xCC, symBinAddr: 0x7590, symSize: 0xC }
+  - { offsetInCU: 0x3D3, offset: 0xB1985, size: 0x8, addend: 0x0, symName: '-[WPSPASTValueNode .cxx_destruct]', symObjAddr: 0xD8, symBinAddr: 0x759C, symSize: 0x30 }
+  - { offsetInCU: 0x406, offset: 0xB19B8, size: 0x8, addend: 0x0, symName: '-[WPSPASTUnknownValueNode initWithContext:key:value:]', symObjAddr: 0x108, symBinAddr: 0x75CC, symSize: 0x98 }
+  - { offsetInCU: 0x46D, offset: 0xB1A1F, size: 0x8, addend: 0x0, symName: '-[WPSPASTUnknownValueNode accept:]', symObjAddr: 0x1A0, symBinAddr: 0x7664, symSize: 0x10 }
+  - { offsetInCU: 0x4B4, offset: 0xB1A66, size: 0x8, addend: 0x0, symName: '-[WPSPASTUnknownValueNode key]', symObjAddr: 0x1B0, symBinAddr: 0x7674, symSize: 0x10 }
+  - { offsetInCU: 0x4EB, offset: 0xB1A9D, size: 0x8, addend: 0x0, symName: '-[WPSPASTUnknownValueNode .cxx_destruct]', symObjAddr: 0x1C0, symBinAddr: 0x7684, symSize: 0x14 }
+  - { offsetInCU: 0x51E, offset: 0xB1AD0, size: 0x8, addend: 0x0, symName: '-[WPSPNullValueNode accept:]', symObjAddr: 0x1D4, symBinAddr: 0x7698, symSize: 0x10 }
+  - { offsetInCU: 0x565, offset: 0xB1B17, size: 0x8, addend: 0x0, symName: '-[WPSPBooleanValueNode accept:]', symObjAddr: 0x1E4, symBinAddr: 0x76A8, symSize: 0x10 }
+  - { offsetInCU: 0x5AC, offset: 0xB1B5E, size: 0x8, addend: 0x0, symName: '-[WPSPNumberValueNode accept:]', symObjAddr: 0x1F4, symBinAddr: 0x76B8, symSize: 0x10 }
+  - { offsetInCU: 0x5F3, offset: 0xB1BA5, size: 0x8, addend: 0x0, symName: '-[WPSPStringValueNode accept:]', symObjAddr: 0x204, symBinAddr: 0x76C8, symSize: 0x10 }
+  - { offsetInCU: 0x63A, offset: 0xB1BEC, size: 0x8, addend: 0x0, symName: '-[WPSPRelativeDateValueNode initWithContext:duration:]', symObjAddr: 0x214, symBinAddr: 0x76D8, symSize: 0x90 }
+  - { offsetInCU: 0x691, offset: 0xB1C43, size: 0x8, addend: 0x0, symName: '-[WPSPRelativeDateValueNode initWithContext:value:]', symObjAddr: 0x2A4, symBinAddr: 0x7768, symSize: 0x2C }
+  - { offsetInCU: 0x6E4, offset: 0xB1C96, size: 0x8, addend: 0x0, symName: '-[WPSPRelativeDateValueNode value]', symObjAddr: 0x2D0, symBinAddr: 0x7794, symSize: 0xCC }
+  - { offsetInCU: 0x72B, offset: 0xB1CDD, size: 0x8, addend: 0x0, symName: '-[WPSPRelativeDateValueNode accept:]', symObjAddr: 0x39C, symBinAddr: 0x7860, symSize: 0x10 }
+  - { offsetInCU: 0x772, offset: 0xB1D24, size: 0x8, addend: 0x0, symName: '-[WPSPRelativeDateValueNode duration]', symObjAddr: 0x3AC, symBinAddr: 0x7870, symSize: 0x10 }
+  - { offsetInCU: 0x7A9, offset: 0xB1D5B, size: 0x8, addend: 0x0, symName: '-[WPSPRelativeDateValueNode .cxx_destruct]', symObjAddr: 0x3BC, symBinAddr: 0x7880, symSize: 0x14 }
+  - { offsetInCU: 0x7DC, offset: 0xB1D8E, size: 0x8, addend: 0x0, symName: '-[WPSPDateValueNode accept:]', symObjAddr: 0x3D0, symBinAddr: 0x7894, symSize: 0x10 }
+  - { offsetInCU: 0x823, offset: 0xB1DD5, size: 0x8, addend: 0x0, symName: '-[WPSPDurationValueNode initWithContext:duration:]', symObjAddr: 0x3E0, symBinAddr: 0x78A4, symSize: 0x8C }
+  - { offsetInCU: 0x87A, offset: 0xB1E2C, size: 0x8, addend: 0x0, symName: '+[WPSPDurationValueNode numberWithDuration:]', symObjAddr: 0x46C, symBinAddr: 0x7930, symSize: 0xD0 }
+  - { offsetInCU: 0x8ED, offset: 0xB1E9F, size: 0x8, addend: 0x0, symName: '-[WPSPDurationValueNode accept:]', symObjAddr: 0x53C, symBinAddr: 0x7A00, symSize: 0x10 }
+  - { offsetInCU: 0x934, offset: 0xB1EE6, size: 0x8, addend: 0x0, symName: '-[WPSPGeoLocationValueNode accept:]', symObjAddr: 0x54C, symBinAddr: 0x7A10, symSize: 0x10 }
+  - { offsetInCU: 0x97B, offset: 0xB1F2D, size: 0x8, addend: 0x0, symName: '-[WPSPGeoBoxValueNode accept:]', symObjAddr: 0x55C, symBinAddr: 0x7A20, symSize: 0x10 }
+  - { offsetInCU: 0x9C2, offset: 0xB1F74, size: 0x8, addend: 0x0, symName: '-[WPSPGeoCircleValueNode accept:]', symObjAddr: 0x56C, symBinAddr: 0x7A30, symSize: 0x10 }
+  - { offsetInCU: 0xA09, offset: 0xB1FBB, size: 0x8, addend: 0x0, symName: '-[WPSPGeoPolygonValueNode accept:]', symObjAddr: 0x57C, symBinAddr: 0x7A40, symSize: 0x10 }
+  - { offsetInCU: 0x27, offset: 0xB20E1, size: 0x8, addend: 0x0, symName: '-[WPRateLimit initWithKey:timeToLive:limit:]', symObjAddr: 0x0, symBinAddr: 0x7A50, symSize: 0x90 }
   - { offsetInCU: 0x41, offset: 0xB20FB, size: 0x8, addend: 0x0, symName: _rateLimiter, symObjAddr: 0x5880, symBinAddr: 0xCEC78, symSize: 0x0 }
-  - { offsetInCU: 0x80, offset: 0xB213A, size: 0x8, addend: 0x0, symName: '+[WPRateLimiter rateLimiter]', symObjAddr: 0x43C, symBinAddr: 0x7E80, symSize: 0x40 }
+  - { offsetInCU: 0x80, offset: 0xB213A, size: 0x8, addend: 0x0, symName: '+[WPRateLimiter rateLimiter]', symObjAddr: 0x43C, symBinAddr: 0x7E8C, symSize: 0x40 }
   - { offsetInCU: 0xAA, offset: 0xB2164, size: 0x8, addend: 0x0, symName: _rateLimiter.onceToken, symObjAddr: 0x5888, symBinAddr: 0xCEC80, symSize: 0x0 }
-  - { offsetInCU: 0x1B3, offset: 0xB226D, size: 0x8, addend: 0x0, symName: '-[WPRateLimit initWithKey:timeToLive:limit:]', symObjAddr: 0x0, symBinAddr: 0x7A44, symSize: 0x90 }
-  - { offsetInCU: 0x21A, offset: 0xB22D4, size: 0x8, addend: 0x0, symName: '-[WPRateLimit key]', symObjAddr: 0x90, symBinAddr: 0x7AD4, symSize: 0x8 }
-  - { offsetInCU: 0x251, offset: 0xB230B, size: 0x8, addend: 0x0, symName: '-[WPRateLimit setKey:]', symObjAddr: 0x98, symBinAddr: 0x7ADC, symSize: 0xC }
-  - { offsetInCU: 0x292, offset: 0xB234C, size: 0x8, addend: 0x0, symName: '-[WPRateLimit timeToLive]', symObjAddr: 0xA4, symBinAddr: 0x7AE8, symSize: 0x8 }
-  - { offsetInCU: 0x2C7, offset: 0xB2381, size: 0x8, addend: 0x0, symName: '-[WPRateLimit setTimeToLive:]', symObjAddr: 0xAC, symBinAddr: 0x7AF0, symSize: 0x8 }
-  - { offsetInCU: 0x305, offset: 0xB23BF, size: 0x8, addend: 0x0, symName: '-[WPRateLimit limit]', symObjAddr: 0xB4, symBinAddr: 0x7AF8, symSize: 0x8 }
-  - { offsetInCU: 0x33C, offset: 0xB23F6, size: 0x8, addend: 0x0, symName: '-[WPRateLimit setLimit:]', symObjAddr: 0xBC, symBinAddr: 0x7B00, symSize: 0x8 }
-  - { offsetInCU: 0x379, offset: 0xB2433, size: 0x8, addend: 0x0, symName: '-[WPRateLimit .cxx_destruct]', symObjAddr: 0xC4, symBinAddr: 0x7B08, symSize: 0xC }
-  - { offsetInCU: 0x3AC, offset: 0xB2466, size: 0x8, addend: 0x0, symName: '+[WPRateLimiterData supportsSecureCoding]', symObjAddr: 0xD0, symBinAddr: 0x7B14, symSize: 0x8 }
-  - { offsetInCU: 0x3DF, offset: 0xB2499, size: 0x8, addend: 0x0, symName: '-[WPRateLimiterData initWithKey:]', symObjAddr: 0xD8, symBinAddr: 0x7B1C, symSize: 0x94 }
-  - { offsetInCU: 0x426, offset: 0xB24E0, size: 0x8, addend: 0x0, symName: '-[WPRateLimiterData initWithCoder:]', symObjAddr: 0x16C, symBinAddr: 0x7BB0, symSize: 0x124 }
-  - { offsetInCU: 0x46D, offset: 0xB2527, size: 0x8, addend: 0x0, symName: '-[WPRateLimiterData encodeWithCoder:]', symObjAddr: 0x290, symBinAddr: 0x7CD4, symSize: 0xBC }
-  - { offsetInCU: 0x4B0, offset: 0xB256A, size: 0x8, addend: 0x0, symName: '-[WPRateLimiterData removeIncrementsOlderThan:]', symObjAddr: 0x34C, symBinAddr: 0x7D90, symSize: 0xA8 }
-  - { offsetInCU: 0x503, offset: 0xB25BD, size: 0x8, addend: 0x0, symName: '-[WPRateLimiterData key]', symObjAddr: 0x3F4, symBinAddr: 0x7E38, symSize: 0xC }
-  - { offsetInCU: 0x53A, offset: 0xB25F4, size: 0x8, addend: 0x0, symName: '-[WPRateLimiterData incrementDates]', symObjAddr: 0x400, symBinAddr: 0x7E44, symSize: 0xC }
-  - { offsetInCU: 0x571, offset: 0xB262B, size: 0x8, addend: 0x0, symName: '-[WPRateLimiterData .cxx_destruct]', symObjAddr: 0x40C, symBinAddr: 0x7E50, symSize: 0x30 }
-  - { offsetInCU: 0x5EB, offset: 0xB26A5, size: 0x8, addend: 0x0, symName: '___28+[WPRateLimiter rateLimiter]_block_invoke', symObjAddr: 0x47C, symBinAddr: 0x7EC0, symSize: 0x2C }
-  - { offsetInCU: 0x612, offset: 0xB26CC, size: 0x8, addend: 0x0, symName: '-[WPRateLimiter init]', symObjAddr: 0x4A8, symBinAddr: 0x7EEC, symSize: 0x25C }
-  - { offsetInCU: 0x6D3, offset: 0xB278D, size: 0x8, addend: 0x0, symName: '-[WPRateLimiter save]', symObjAddr: 0x704, symBinAddr: 0x8148, symSize: 0x24C }
-  - { offsetInCU: 0x76B, offset: 0xB2825, size: 0x8, addend: 0x0, symName: '-[WPRateLimiter increment:]', symObjAddr: 0x950, symBinAddr: 0x8394, symSize: 0x1CC }
-  - { offsetInCU: 0x7D5, offset: 0xB288F, size: 0x8, addend: 0x0, symName: '-[WPRateLimiter isRateLimited:]', symObjAddr: 0xB1C, symBinAddr: 0x8560, symSize: 0x128 }
-  - { offsetInCU: 0x833, offset: 0xB28ED, size: 0x8, addend: 0x0, symName: '-[WPRateLimiter clear:]', symObjAddr: 0xC44, symBinAddr: 0x8688, symSize: 0xB4 }
-  - { offsetInCU: 0x876, offset: 0xB2930, size: 0x8, addend: 0x0, symName: '-[WPRateLimiter limiterData]', symObjAddr: 0xCF8, symBinAddr: 0x873C, symSize: 0x8 }
-  - { offsetInCU: 0x8AD, offset: 0xB2967, size: 0x8, addend: 0x0, symName: '-[WPRateLimiter setLimiterData:]', symObjAddr: 0xD00, symBinAddr: 0x8744, symSize: 0xC }
-  - { offsetInCU: 0x8EE, offset: 0xB29A8, size: 0x8, addend: 0x0, symName: '-[WPRateLimiter .cxx_destruct]', symObjAddr: 0xD0C, symBinAddr: 0x8750, symSize: 0xC }
-  - { offsetInCU: 0x27, offset: 0xB2B06, size: 0x8, addend: 0x0, symName: '+[WonderPushPrivate load]', symObjAddr: 0x0, symBinAddr: 0x875C, symSize: 0x54 }
-  - { offsetInCU: 0x8E, offset: 0xB2B6D, size: 0x8, addend: 0x0, symName: '+[WonderPushPrivate load]', symObjAddr: 0x0, symBinAddr: 0x875C, symSize: 0x54 }
-  - { offsetInCU: 0x106, offset: 0xB2BE5, size: 0x8, addend: 0x0, symName: '-[WonderPushPrivate liveActivityIdsPerAttributesTypeName]', symObjAddr: 0x54, symBinAddr: 0x87B0, symSize: 0x4C }
-  - { offsetInCU: 0x139, offset: 0xB2C18, size: 0x8, addend: 0x0, symName: '-[WonderPushPrivate log:]', symObjAddr: 0xA0, symBinAddr: 0x87FC, symSize: 0x28 }
-  - { offsetInCU: 0x195, offset: 0xB2C74, size: 0x8, addend: 0x0, symName: '-[WonderPushPrivate logDebug:]', symObjAddr: 0xC8, symBinAddr: 0x8824, symSize: 0x28 }
-  - { offsetInCU: 0x1F1, offset: 0xB2CD0, size: 0x8, addend: 0x0, symName: '-[WonderPushPrivate trackInternalEvent:eventData:customData:sentCallback:]', symObjAddr: 0xF0, symBinAddr: 0x884C, symSize: 0xC }
-  - { offsetInCU: 0x27, offset: 0xB2DF5, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl instance]', symObjAddr: 0x0, symBinAddr: 0x8858, symSize: 0x40 }
+  - { offsetInCU: 0x1B3, offset: 0xB226D, size: 0x8, addend: 0x0, symName: '-[WPRateLimit initWithKey:timeToLive:limit:]', symObjAddr: 0x0, symBinAddr: 0x7A50, symSize: 0x90 }
+  - { offsetInCU: 0x21A, offset: 0xB22D4, size: 0x8, addend: 0x0, symName: '-[WPRateLimit key]', symObjAddr: 0x90, symBinAddr: 0x7AE0, symSize: 0x8 }
+  - { offsetInCU: 0x251, offset: 0xB230B, size: 0x8, addend: 0x0, symName: '-[WPRateLimit setKey:]', symObjAddr: 0x98, symBinAddr: 0x7AE8, symSize: 0xC }
+  - { offsetInCU: 0x292, offset: 0xB234C, size: 0x8, addend: 0x0, symName: '-[WPRateLimit timeToLive]', symObjAddr: 0xA4, symBinAddr: 0x7AF4, symSize: 0x8 }
+  - { offsetInCU: 0x2C7, offset: 0xB2381, size: 0x8, addend: 0x0, symName: '-[WPRateLimit setTimeToLive:]', symObjAddr: 0xAC, symBinAddr: 0x7AFC, symSize: 0x8 }
+  - { offsetInCU: 0x305, offset: 0xB23BF, size: 0x8, addend: 0x0, symName: '-[WPRateLimit limit]', symObjAddr: 0xB4, symBinAddr: 0x7B04, symSize: 0x8 }
+  - { offsetInCU: 0x33C, offset: 0xB23F6, size: 0x8, addend: 0x0, symName: '-[WPRateLimit setLimit:]', symObjAddr: 0xBC, symBinAddr: 0x7B0C, symSize: 0x8 }
+  - { offsetInCU: 0x379, offset: 0xB2433, size: 0x8, addend: 0x0, symName: '-[WPRateLimit .cxx_destruct]', symObjAddr: 0xC4, symBinAddr: 0x7B14, symSize: 0xC }
+  - { offsetInCU: 0x3AC, offset: 0xB2466, size: 0x8, addend: 0x0, symName: '+[WPRateLimiterData supportsSecureCoding]', symObjAddr: 0xD0, symBinAddr: 0x7B20, symSize: 0x8 }
+  - { offsetInCU: 0x3DF, offset: 0xB2499, size: 0x8, addend: 0x0, symName: '-[WPRateLimiterData initWithKey:]', symObjAddr: 0xD8, symBinAddr: 0x7B28, symSize: 0x94 }
+  - { offsetInCU: 0x426, offset: 0xB24E0, size: 0x8, addend: 0x0, symName: '-[WPRateLimiterData initWithCoder:]', symObjAddr: 0x16C, symBinAddr: 0x7BBC, symSize: 0x124 }
+  - { offsetInCU: 0x46D, offset: 0xB2527, size: 0x8, addend: 0x0, symName: '-[WPRateLimiterData encodeWithCoder:]', symObjAddr: 0x290, symBinAddr: 0x7CE0, symSize: 0xBC }
+  - { offsetInCU: 0x4B0, offset: 0xB256A, size: 0x8, addend: 0x0, symName: '-[WPRateLimiterData removeIncrementsOlderThan:]', symObjAddr: 0x34C, symBinAddr: 0x7D9C, symSize: 0xA8 }
+  - { offsetInCU: 0x503, offset: 0xB25BD, size: 0x8, addend: 0x0, symName: '-[WPRateLimiterData key]', symObjAddr: 0x3F4, symBinAddr: 0x7E44, symSize: 0xC }
+  - { offsetInCU: 0x53A, offset: 0xB25F4, size: 0x8, addend: 0x0, symName: '-[WPRateLimiterData incrementDates]', symObjAddr: 0x400, symBinAddr: 0x7E50, symSize: 0xC }
+  - { offsetInCU: 0x571, offset: 0xB262B, size: 0x8, addend: 0x0, symName: '-[WPRateLimiterData .cxx_destruct]', symObjAddr: 0x40C, symBinAddr: 0x7E5C, symSize: 0x30 }
+  - { offsetInCU: 0x5EB, offset: 0xB26A5, size: 0x8, addend: 0x0, symName: '___28+[WPRateLimiter rateLimiter]_block_invoke', symObjAddr: 0x47C, symBinAddr: 0x7ECC, symSize: 0x2C }
+  - { offsetInCU: 0x612, offset: 0xB26CC, size: 0x8, addend: 0x0, symName: '-[WPRateLimiter init]', symObjAddr: 0x4A8, symBinAddr: 0x7EF8, symSize: 0x25C }
+  - { offsetInCU: 0x6D3, offset: 0xB278D, size: 0x8, addend: 0x0, symName: '-[WPRateLimiter save]', symObjAddr: 0x704, symBinAddr: 0x8154, symSize: 0x24C }
+  - { offsetInCU: 0x76B, offset: 0xB2825, size: 0x8, addend: 0x0, symName: '-[WPRateLimiter increment:]', symObjAddr: 0x950, symBinAddr: 0x83A0, symSize: 0x1CC }
+  - { offsetInCU: 0x7D5, offset: 0xB288F, size: 0x8, addend: 0x0, symName: '-[WPRateLimiter isRateLimited:]', symObjAddr: 0xB1C, symBinAddr: 0x856C, symSize: 0x128 }
+  - { offsetInCU: 0x833, offset: 0xB28ED, size: 0x8, addend: 0x0, symName: '-[WPRateLimiter clear:]', symObjAddr: 0xC44, symBinAddr: 0x8694, symSize: 0xB4 }
+  - { offsetInCU: 0x876, offset: 0xB2930, size: 0x8, addend: 0x0, symName: '-[WPRateLimiter limiterData]', symObjAddr: 0xCF8, symBinAddr: 0x8748, symSize: 0x8 }
+  - { offsetInCU: 0x8AD, offset: 0xB2967, size: 0x8, addend: 0x0, symName: '-[WPRateLimiter setLimiterData:]', symObjAddr: 0xD00, symBinAddr: 0x8750, symSize: 0xC }
+  - { offsetInCU: 0x8EE, offset: 0xB29A8, size: 0x8, addend: 0x0, symName: '-[WPRateLimiter .cxx_destruct]', symObjAddr: 0xD0C, symBinAddr: 0x875C, symSize: 0xC }
+  - { offsetInCU: 0x27, offset: 0xB2B06, size: 0x8, addend: 0x0, symName: '+[WonderPushPrivate load]', symObjAddr: 0x0, symBinAddr: 0x8768, symSize: 0x54 }
+  - { offsetInCU: 0x8E, offset: 0xB2B6D, size: 0x8, addend: 0x0, symName: '+[WonderPushPrivate load]', symObjAddr: 0x0, symBinAddr: 0x8768, symSize: 0x54 }
+  - { offsetInCU: 0x106, offset: 0xB2BE5, size: 0x8, addend: 0x0, symName: '-[WonderPushPrivate liveActivityIdsPerAttributesTypeName]', symObjAddr: 0x54, symBinAddr: 0x87BC, symSize: 0x4C }
+  - { offsetInCU: 0x139, offset: 0xB2C18, size: 0x8, addend: 0x0, symName: '-[WonderPushPrivate log:]', symObjAddr: 0xA0, symBinAddr: 0x8808, symSize: 0x28 }
+  - { offsetInCU: 0x195, offset: 0xB2C74, size: 0x8, addend: 0x0, symName: '-[WonderPushPrivate logDebug:]', symObjAddr: 0xC8, symBinAddr: 0x8830, symSize: 0x28 }
+  - { offsetInCU: 0x1F1, offset: 0xB2CD0, size: 0x8, addend: 0x0, symName: '-[WonderPushPrivate trackInternalEvent:eventData:customData:sentCallback:]', symObjAddr: 0xF0, symBinAddr: 0x8858, symSize: 0xC }
+  - { offsetInCU: 0x27, offset: 0xB2DF5, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl instance]', symObjAddr: 0x0, symBinAddr: 0x8864, symSize: 0x40 }
   - { offsetInCU: 0x41, offset: 0xB2E0F, size: 0x8, addend: 0x0, symName: _instance, symObjAddr: 0x81C0, symBinAddr: 0xCEC88, symSize: 0x0 }
-  - { offsetInCU: 0x61, offset: 0xB2E2F, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl instance]', symObjAddr: 0x0, symBinAddr: 0x8858, symSize: 0x40 }
+  - { offsetInCU: 0x61, offset: 0xB2E2F, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl instance]', symObjAddr: 0x0, symBinAddr: 0x8864, symSize: 0x40 }
   - { offsetInCU: 0x8B, offset: 0xB2E59, size: 0x8, addend: 0x0, symName: _instance.onceToken, symObjAddr: 0x81C8, symBinAddr: 0xCEC90, symSize: 0x0 }
-  - { offsetInCU: 0x5B2, offset: 0xB3380, size: 0x8, addend: 0x0, symName: '___35+[WPIAMDefaultDisplayImpl instance]_block_invoke', symObjAddr: 0x40, symBinAddr: 0x8898, symSize: 0x2C }
-  - { offsetInCU: 0x5D9, offset: 0xB33A7, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl load]', symObjAddr: 0x6C, symBinAddr: 0x88C4, symSize: 0x8 }
-  - { offsetInCU: 0x60A, offset: 0xB33D8, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl didReceiveConfigureSDKNotification:]', symObjAddr: 0x74, symBinAddr: 0x88CC, symSize: 0x68 }
-  - { offsetInCU: 0x672, offset: 0xB3440, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl getViewResourceBundle]', symObjAddr: 0xDC, symBinAddr: 0x8934, symSize: 0xC }
-  - { offsetInCU: 0x6A5, offset: 0xB3473, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl displayCardViewWithMessageDefinition:controllerDelegate:]', symObjAddr: 0xE8, symBinAddr: 0x8940, symSize: 0xBC }
-  - { offsetInCU: 0x721, offset: 0xB34EF, size: 0x8, addend: 0x0, symName: '___83+[WPIAMDefaultDisplayImpl displayCardViewWithMessageDefinition:controllerDelegate:]_block_invoke', symObjAddr: 0x1A4, symBinAddr: 0x89FC, symSize: 0x2C4 }
-  - { offsetInCU: 0x830, offset: 0xB35FE, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s, symObjAddr: 0x468, symBinAddr: 0x8CC0, symSize: 0x28 }
-  - { offsetInCU: 0x859, offset: 0xB3627, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s, symObjAddr: 0x490, symBinAddr: 0x8CE8, symSize: 0x28 }
-  - { offsetInCU: 0x878, offset: 0xB3646, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl displayModalViewWithMessageDefinition:controllerDelegate:]', symObjAddr: 0x4B8, symBinAddr: 0x8D10, symSize: 0xBC }
-  - { offsetInCU: 0x8E1, offset: 0xB36AF, size: 0x8, addend: 0x0, symName: '___84+[WPIAMDefaultDisplayImpl displayModalViewWithMessageDefinition:controllerDelegate:]_block_invoke', symObjAddr: 0x574, symBinAddr: 0x8DCC, symSize: 0x1C4 }
-  - { offsetInCU: 0x9E9, offset: 0xB37B7, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl displayBannerViewWithMessageDefinition:controllerDelegate:]', symObjAddr: 0x738, symBinAddr: 0x8F90, symSize: 0xBC }
-  - { offsetInCU: 0xA52, offset: 0xB3820, size: 0x8, addend: 0x0, symName: '___85+[WPIAMDefaultDisplayImpl displayBannerViewWithMessageDefinition:controllerDelegate:]_block_invoke', symObjAddr: 0x7F4, symBinAddr: 0x904C, symSize: 0x1C4 }
-  - { offsetInCU: 0xB5A, offset: 0xB3928, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl displayImageOnlyViewWithMessageDefinition:controllerDelegate:]', symObjAddr: 0x9B8, symBinAddr: 0x9210, symSize: 0xBC }
-  - { offsetInCU: 0xBC3, offset: 0xB3991, size: 0x8, addend: 0x0, symName: '___88+[WPIAMDefaultDisplayImpl displayImageOnlyViewWithMessageDefinition:controllerDelegate:]_block_invoke', symObjAddr: 0xA74, symBinAddr: 0x92CC, symSize: 0x1C4 }
-  - { offsetInCU: 0xCCB, offset: 0xB3A99, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl displayWebViewViewWithMessageDefinition:controllerDelegate:]', symObjAddr: 0xC38, symBinAddr: 0x9490, symSize: 0xBC }
-  - { offsetInCU: 0xD34, offset: 0xB3B02, size: 0x8, addend: 0x0, symName: '___86+[WPIAMDefaultDisplayImpl displayWebViewViewWithMessageDefinition:controllerDelegate:]_block_invoke', symObjAddr: 0xCF4, symBinAddr: 0x954C, symSize: 0x274 }
-  - { offsetInCU: 0xE50, offset: 0xB3C1E, size: 0x8, addend: 0x0, symName: '-[WPIAMDefaultDisplayImpl displayMessage:displayDelegate:]', symObjAddr: 0xF68, symBinAddr: 0x97C0, symSize: 0x1FC }
-  - { offsetInCU: 0xF1E, offset: 0xB3CEC, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl applicationNotActiveError]', symObjAddr: 0x1164, symBinAddr: 0x99BC, symSize: 0x24 }
-  - { offsetInCU: 0x27, offset: 0xB4170, size: 0x8, addend: 0x0, symName: '+[WPIAMWebViewViewController instantiateViewControllerWithResourceBundle:displayMessage:controllerDelegate:timeFetcher:]', symObjAddr: 0x0, symBinAddr: 0x99E0, symSize: 0x144 }
-  - { offsetInCU: 0x41, offset: 0xB418A, size: 0x8, addend: 0x0, symName: _paka, symObjAddr: 0x11248, symBinAddr: 0xCF098, symSize: 0x0 }
-  - { offsetInCU: 0x81, offset: 0xB41CA, size: 0x8, addend: 0x0, symName: _oldDeviceOrientation, symObjAddr: 0x11288, symBinAddr: 0xCF0D8, symSize: 0x0 }
-  - { offsetInCU: 0x97, offset: 0xB41E0, size: 0x8, addend: 0x0, symName: _navController, symObjAddr: 0x11250, symBinAddr: 0xCF0A0, symSize: 0x0 }
-  - { offsetInCU: 0xB2, offset: 0xB41FB, size: 0x8, addend: 0x0, symName: _viewControllerForPresentation, symObjAddr: 0x11258, symBinAddr: 0xCF0A8, symSize: 0x0 }
-  - { offsetInCU: 0xCE, offset: 0xB4217, size: 0x8, addend: 0x0, symName: _gestureRecognizerRight, symObjAddr: 0x11290, symBinAddr: 0xCF0E0, symSize: 0x0 }
-  - { offsetInCU: 0xEA, offset: 0xB4233, size: 0x8, addend: 0x0, symName: _gestureRecognizerLeft, symObjAddr: 0x11298, symBinAddr: 0xCF0E8, symSize: 0x0 }
-  - { offsetInCU: 0x101, offset: 0xB424A, size: 0x8, addend: 0x0, symName: _c, symObjAddr: 0x11280, symBinAddr: 0xCF0D0, symSize: 0x0 }
-  - { offsetInCU: 0x118, offset: 0xB4261, size: 0x8, addend: 0x0, symName: _nbk, symObjAddr: 0x11270, symBinAddr: 0xCF0C0, symSize: 0x0 }
-  - { offsetInCU: 0x136, offset: 0xB427F, size: 0x8, addend: 0x0, symName: _some, symObjAddr: 0x11260, symBinAddr: 0xCF0B0, symSize: 0x0 }
-  - { offsetInCU: 0x14D, offset: 0xB4296, size: 0x8, addend: 0x0, symName: _poker, symObjAddr: 0x11278, symBinAddr: 0xCF0C8, symSize: 0x0 }
-  - { offsetInCU: 0x164, offset: 0xB42AD, size: 0x8, addend: 0x0, symName: _progressView, symObjAddr: 0x11268, symBinAddr: 0xCF0B8, symSize: 0x0 }
-  - { offsetInCU: 0x6B1, offset: 0xB47FA, size: 0x8, addend: 0x0, symName: '+[WPIAMWebViewViewController instantiateViewControllerWithResourceBundle:displayMessage:controllerDelegate:timeFetcher:]', symObjAddr: 0x0, symBinAddr: 0x99E0, symSize: 0x144 }
-  - { offsetInCU: 0x766, offset: 0xB48AF, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController inAppMessage]', symObjAddr: 0x144, symBinAddr: 0x9B24, symSize: 0x4 }
-  - { offsetInCU: 0x79B, offset: 0xB48E4, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController closeButtonClicked:]', symObjAddr: 0x148, symBinAddr: 0x9B28, symSize: 0x8 }
-  - { offsetInCU: 0x7D8, offset: 0xB4921, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController viewDidLoad]', symObjAddr: 0x150, symBinAddr: 0x9B30, symSize: 0x4FC }
-  - { offsetInCU: 0x83A, offset: 0xB4983, size: 0x8, addend: 0x0, symName: '___41-[WPIAMWebViewViewController viewDidLoad]_block_invoke', symObjAddr: 0x64C, symBinAddr: 0xA02C, symSize: 0x5C }
-  - { offsetInCU: 0x895, offset: 0xB49DE, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32w40w, symObjAddr: 0x6A8, symBinAddr: 0xA088, symSize: 0x34 }
-  - { offsetInCU: 0x8BE, offset: 0xB4A07, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32w40w, symObjAddr: 0x6DC, symBinAddr: 0xA0BC, symSize: 0x28 }
-  - { offsetInCU: 0x8DD, offset: 0xB4A26, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController flashCloseButton:]', symObjAddr: 0x704, symBinAddr: 0xA0E4, symSize: 0xA8 }
-  - { offsetInCU: 0x91C, offset: 0xB4A65, size: 0x8, addend: 0x0, symName: '___47-[WPIAMWebViewViewController flashCloseButton:]_block_invoke', symObjAddr: 0x7AC, symBinAddr: 0xA18C, symSize: 0x10 }
-  - { offsetInCU: 0x957, offset: 0xB4AA0, size: 0x8, addend: 0x0, symName: '___47-[WPIAMWebViewViewController flashCloseButton:]_block_invoke.11', symObjAddr: 0x7CC, symBinAddr: 0xA19C, symSize: 0x4 }
-  - { offsetInCU: 0x98A, offset: 0xB4AD3, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController viewToAnimate]', symObjAddr: 0x7D0, symBinAddr: 0xA1A0, symSize: 0x4 }
-  - { offsetInCU: 0x9BF, offset: 0xB4B08, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController viewWillAppear:]', symObjAddr: 0x7D4, symBinAddr: 0xA1A4, symSize: 0x74 }
-  - { offsetInCU: 0xA02, offset: 0xB4B4B, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController viewDidDisappear:]', symObjAddr: 0x848, symBinAddr: 0xA218, symSize: 0xA0 }
-  - { offsetInCU: 0xA45, offset: 0xB4B8E, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController dimsBackground]', symObjAddr: 0x8E8, symBinAddr: 0xA2B8, symSize: 0x8 }
-  - { offsetInCU: 0xA78, offset: 0xB4BC1, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController webViewMessage]', symObjAddr: 0x8F0, symBinAddr: 0xA2C0, symSize: 0x10 }
-  - { offsetInCU: 0xAAF, offset: 0xB4BF8, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController setWebViewMessage:]', symObjAddr: 0x900, symBinAddr: 0xA2D0, symSize: 0x14 }
-  - { offsetInCU: 0xAF0, offset: 0xB4C39, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController closeButton]', symObjAddr: 0x914, symBinAddr: 0xA2E4, symSize: 0x20 }
-  - { offsetInCU: 0xB27, offset: 0xB4C70, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController setCloseButton:]', symObjAddr: 0x934, symBinAddr: 0xA304, symSize: 0x14 }
-  - { offsetInCU: 0xB68, offset: 0xB4CB1, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController containerView]', symObjAddr: 0x948, symBinAddr: 0xA318, symSize: 0x20 }
-  - { offsetInCU: 0xB9F, offset: 0xB4CE8, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController setContainerView:]', symObjAddr: 0x968, symBinAddr: 0xA338, symSize: 0x14 }
-  - { offsetInCU: 0xBE0, offset: 0xB4D29, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController webView]', symObjAddr: 0x97C, symBinAddr: 0xA34C, symSize: 0x20 }
-  - { offsetInCU: 0xC17, offset: 0xB4D60, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController setWebView:]', symObjAddr: 0x99C, symBinAddr: 0xA36C, symSize: 0x14 }
-  - { offsetInCU: 0xC58, offset: 0xB4DA1, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController .cxx_destruct]', symObjAddr: 0x9B0, symBinAddr: 0xA380, symSize: 0x5C }
-  - { offsetInCU: 0xC8B, offset: 0xB4DD4, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainerView pointInside:withEvent:]', symObjAddr: 0xA0C, symBinAddr: 0xA3DC, symSize: 0xFC }
-  - { offsetInCU: 0xCDE, offset: 0xB4E27, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainerView webView]', symObjAddr: 0xB08, symBinAddr: 0xA4D8, symSize: 0x20 }
-  - { offsetInCU: 0xD15, offset: 0xB4E5E, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainerView setWebView:]', symObjAddr: 0xB28, symBinAddr: 0xA4F8, symSize: 0x14 }
-  - { offsetInCU: 0xD56, offset: 0xB4E9F, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainerView .cxx_destruct]', symObjAddr: 0xB3C, symBinAddr: 0xA50C, symSize: 0x10 }
-  - { offsetInCU: 0xD89, offset: 0xB4ED2, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainerWindow pointInside:withEvent:]', symObjAddr: 0xB4C, symBinAddr: 0xA51C, symSize: 0xFC }
-  - { offsetInCU: 0xDDC, offset: 0xB4F25, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainerWindow webView]', symObjAddr: 0xC48, symBinAddr: 0xA618, symSize: 0x20 }
-  - { offsetInCU: 0xE13, offset: 0xB4F5C, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainerWindow setWebView:]', symObjAddr: 0xC68, symBinAddr: 0xA638, symSize: 0x14 }
-  - { offsetInCU: 0xE54, offset: 0xB4F9D, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainerWindow .cxx_destruct]', symObjAddr: 0xC7C, symBinAddr: 0xA64C, symSize: 0x10 }
-  - { offsetInCU: 0xE87, offset: 0xB4FD0, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer viewDidLoad]', symObjAddr: 0xC8C, symBinAddr: 0xA65C, symSize: 0x1D8 }
-  - { offsetInCU: 0xEF9, offset: 0xB5042, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:]', symObjAddr: 0xE64, symBinAddr: 0xA834, symSize: 0x138 }
-  - { offsetInCU: 0xFA6, offset: 0xB50EF, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer prefersStatusBarHidden]', symObjAddr: 0xF9C, symBinAddr: 0xA96C, symSize: 0x7C }
-  - { offsetInCU: 0xFDD, offset: 0xB5126, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer webView:didStartProvisionalNavigation:]', symObjAddr: 0x1018, symBinAddr: 0xA9E8, symSize: 0x5C }
-  - { offsetInCU: 0x1028, offset: 0xB5171, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer webView:didFinishNavigation:]', symObjAddr: 0x1074, symBinAddr: 0xAA44, symSize: 0x80 }
-  - { offsetInCU: 0x1092, offset: 0xB51DB, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer webView:decidePolicyForNavigationAction:decisionHandler:]', symObjAddr: 0x10F4, symBinAddr: 0xAAC4, symSize: 0x374 }
-  - { offsetInCU: 0x1156, offset: 0xB529F, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer webView:didFailNavigation:withError:]', symObjAddr: 0x1468, symBinAddr: 0xAE38, symSize: 0x4 }
-  - { offsetInCU: 0x11AD, offset: 0xB52F6, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer pinSubviewToMarginsWithSubview:withSuperview:]', symObjAddr: 0x146C, symBinAddr: 0xAE3C, symSize: 0x1A4 }
-  - { offsetInCU: 0x1254, offset: 0xB539D, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer sdf]', symObjAddr: 0x1610, symBinAddr: 0xAFE0, symSize: 0x2B4 }
-  - { offsetInCU: 0x12D5, offset: 0xB541E, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer gfd]', symObjAddr: 0x18C4, symBinAddr: 0xB294, symSize: 0x10 }
-  - { offsetInCU: 0x130C, offset: 0xB5455, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer setGfd:]', symObjAddr: 0x18D4, symBinAddr: 0xB2A4, symSize: 0xC }
-  - { offsetInCU: 0x134B, offset: 0xB5494, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer someView]', symObjAddr: 0x18E0, symBinAddr: 0xB2B0, symSize: 0x10 }
-  - { offsetInCU: 0x1382, offset: 0xB54CB, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer setSomeView:]', symObjAddr: 0x18F0, symBinAddr: 0xB2C0, symSize: 0x14 }
-  - { offsetInCU: 0x13C3, offset: 0xB550C, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer uiBusy]', symObjAddr: 0x1904, symBinAddr: 0xB2D4, symSize: 0x10 }
-  - { offsetInCU: 0x13FA, offset: 0xB5543, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer setUiBusy:]', symObjAddr: 0x1914, symBinAddr: 0xB2E4, symSize: 0x14 }
-  - { offsetInCU: 0x143B, offset: 0xB5584, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer pappy]', symObjAddr: 0x1928, symBinAddr: 0xB2F8, symSize: 0x10 }
-  - { offsetInCU: 0x1472, offset: 0xB55BB, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer setPappy:]', symObjAddr: 0x1938, symBinAddr: 0xB308, symSize: 0x14 }
-  - { offsetInCU: 0x14B3, offset: 0xB55FC, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer .cxx_destruct]', symObjAddr: 0x194C, symBinAddr: 0xB31C, symSize: 0x68 }
-  - { offsetInCU: 0x14E6, offset: 0xB562F, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer init]', symObjAddr: 0x19B4, symBinAddr: 0xB384, symSize: 0x68 }
-  - { offsetInCU: 0x151E, offset: 0xB5667, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer dealloc]', symObjAddr: 0x1A1C, symBinAddr: 0xB3EC, symSize: 0x58 }
-  - { offsetInCU: 0x1552, offset: 0xB569B, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer observeValueForKeyPath:ofObject:change:context:]', symObjAddr: 0x1A74, symBinAddr: 0xB444, symSize: 0x478 }
-  - { offsetInCU: 0x1662, offset: 0xB57AB, size: 0x8, addend: 0x0, symName: '___78-[WPIAMWebViewWindowContainer observeValueForKeyPath:ofObject:change:context:]_block_invoke', symObjAddr: 0x1EEC, symBinAddr: 0xB8BC, symSize: 0x10 }
-  - { offsetInCU: 0x168B, offset: 0xB57D4, size: 0x8, addend: 0x0, symName: '___78-[WPIAMWebViewWindowContainer observeValueForKeyPath:ofObject:change:context:]_block_invoke_2', symObjAddr: 0x1EFC, symBinAddr: 0xB8CC, symSize: 0x14 }
-  - { offsetInCU: 0x16C1, offset: 0xB580A, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer mutableCopy]', symObjAddr: 0x1F10, symBinAddr: 0xB8E0, symSize: 0x48 }
-  - { offsetInCU: 0x16F5, offset: 0xB583E, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer copy]', symObjAddr: 0x1F58, symBinAddr: 0xB928, symSize: 0x130 }
-  - { offsetInCU: 0x172D, offset: 0xB5876, size: 0x8, addend: 0x0, symName: '___35-[WPIAMWebViewWindowContainer copy]_block_invoke', symObjAddr: 0x2088, symBinAddr: 0xBA58, symSize: 0x4C }
-  - { offsetInCU: 0x1763, offset: 0xB58AC, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer l]', symObjAddr: 0x20D4, symBinAddr: 0xBAA4, symSize: 0x4C }
-  - { offsetInCU: 0x17A8, offset: 0xB58F1, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer f:gsome:]', symObjAddr: 0x2120, symBinAddr: 0xBAF0, symSize: 0xEFC }
-  - { offsetInCU: 0x1945, offset: 0xB5A8E, size: 0x8, addend: 0x0, symName: '___39-[WPIAMWebViewWindowContainer f:gsome:]_block_invoke', symObjAddr: 0x301C, symBinAddr: 0xC9EC, symSize: 0xF4 }
-  - { offsetInCU: 0x1994, offset: 0xB5ADD, size: 0x8, addend: 0x0, symName: '___39-[WPIAMWebViewWindowContainer f:gsome:]_block_invoke.180', symObjAddr: 0x3110, symBinAddr: 0xCAE0, symSize: 0x1B4 }
-  - { offsetInCU: 0x19E3, offset: 0xB5B2C, size: 0x8, addend: 0x0, symName: '___39-[WPIAMWebViewWindowContainer f:gsome:]_block_invoke_2', symObjAddr: 0x32C4, symBinAddr: 0xCC94, symSize: 0x518 }
-  - { offsetInCU: 0x1A98, offset: 0xB5BE1, size: 0x8, addend: 0x0, symName: '___39-[WPIAMWebViewWindowContainer f:gsome:]_block_invoke_3', symObjAddr: 0x37DC, symBinAddr: 0xD1AC, symSize: 0x50 }
-  - { offsetInCU: 0x1AEC, offset: 0xB5C35, size: 0x8, addend: 0x0, symName: '___39-[WPIAMWebViewWindowContainer f:gsome:]_block_invoke_4', symObjAddr: 0x382C, symBinAddr: 0xD1FC, symSize: 0x48 }
-  - { offsetInCU: 0x1B40, offset: 0xB5C89, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s, symObjAddr: 0x3874, symBinAddr: 0xD244, symSize: 0x30 }
-  - { offsetInCU: 0x1B69, offset: 0xB5CB2, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s, symObjAddr: 0x38A4, symBinAddr: 0xD274, symSize: 0x30 }
-  - { offsetInCU: 0x1B88, offset: 0xB5CD1, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer reverseColorOf:]', symObjAddr: 0x38D4, symBinAddr: 0xD2A4, symSize: 0x1C4 }
-  - { offsetInCU: 0x1D2A, offset: 0xB5E73, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer refresh:]', symObjAddr: 0x3A98, symBinAddr: 0xD468, symSize: 0x5C }
-  - { offsetInCU: 0x1D6F, offset: 0xB5EB8, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer swipeHandlerRight:]', symObjAddr: 0x3AF4, symBinAddr: 0xD4C4, symSize: 0x38 }
-  - { offsetInCU: 0x1DB0, offset: 0xB5EF9, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer swipeHandlerLeft:]', symObjAddr: 0x3B2C, symBinAddr: 0xD4FC, symSize: 0x38 }
-  - { offsetInCU: 0x1DF1, offset: 0xB5F3A, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer currentKeyWindow]', symObjAddr: 0x3B64, symBinAddr: 0xD534, symSize: 0x98 }
-  - { offsetInCU: 0x1E71, offset: 0xB5FBA, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer ownRootViewController]', symObjAddr: 0x3BFC, symBinAddr: 0xD5CC, symSize: 0xF0 }
+  - { offsetInCU: 0x5B2, offset: 0xB3380, size: 0x8, addend: 0x0, symName: '___35+[WPIAMDefaultDisplayImpl instance]_block_invoke', symObjAddr: 0x40, symBinAddr: 0x88A4, symSize: 0x2C }
+  - { offsetInCU: 0x5D9, offset: 0xB33A7, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl load]', symObjAddr: 0x6C, symBinAddr: 0x88D0, symSize: 0x8 }
+  - { offsetInCU: 0x60A, offset: 0xB33D8, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl didReceiveConfigureSDKNotification:]', symObjAddr: 0x74, symBinAddr: 0x88D8, symSize: 0x68 }
+  - { offsetInCU: 0x672, offset: 0xB3440, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl getViewResourceBundle]', symObjAddr: 0xDC, symBinAddr: 0x8940, symSize: 0xC }
+  - { offsetInCU: 0x6A5, offset: 0xB3473, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl displayCardViewWithMessageDefinition:controllerDelegate:]', symObjAddr: 0xE8, symBinAddr: 0x894C, symSize: 0xBC }
+  - { offsetInCU: 0x721, offset: 0xB34EF, size: 0x8, addend: 0x0, symName: '___83+[WPIAMDefaultDisplayImpl displayCardViewWithMessageDefinition:controllerDelegate:]_block_invoke', symObjAddr: 0x1A4, symBinAddr: 0x8A08, symSize: 0x2C4 }
+  - { offsetInCU: 0x830, offset: 0xB35FE, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s, symObjAddr: 0x468, symBinAddr: 0x8CCC, symSize: 0x28 }
+  - { offsetInCU: 0x859, offset: 0xB3627, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s, symObjAddr: 0x490, symBinAddr: 0x8CF4, symSize: 0x28 }
+  - { offsetInCU: 0x878, offset: 0xB3646, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl displayModalViewWithMessageDefinition:controllerDelegate:]', symObjAddr: 0x4B8, symBinAddr: 0x8D1C, symSize: 0xBC }
+  - { offsetInCU: 0x8E1, offset: 0xB36AF, size: 0x8, addend: 0x0, symName: '___84+[WPIAMDefaultDisplayImpl displayModalViewWithMessageDefinition:controllerDelegate:]_block_invoke', symObjAddr: 0x574, symBinAddr: 0x8DD8, symSize: 0x1C4 }
+  - { offsetInCU: 0x9E9, offset: 0xB37B7, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl displayBannerViewWithMessageDefinition:controllerDelegate:]', symObjAddr: 0x738, symBinAddr: 0x8F9C, symSize: 0xBC }
+  - { offsetInCU: 0xA52, offset: 0xB3820, size: 0x8, addend: 0x0, symName: '___85+[WPIAMDefaultDisplayImpl displayBannerViewWithMessageDefinition:controllerDelegate:]_block_invoke', symObjAddr: 0x7F4, symBinAddr: 0x9058, symSize: 0x1C4 }
+  - { offsetInCU: 0xB5A, offset: 0xB3928, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl displayImageOnlyViewWithMessageDefinition:controllerDelegate:]', symObjAddr: 0x9B8, symBinAddr: 0x921C, symSize: 0xBC }
+  - { offsetInCU: 0xBC3, offset: 0xB3991, size: 0x8, addend: 0x0, symName: '___88+[WPIAMDefaultDisplayImpl displayImageOnlyViewWithMessageDefinition:controllerDelegate:]_block_invoke', symObjAddr: 0xA74, symBinAddr: 0x92D8, symSize: 0x1C4 }
+  - { offsetInCU: 0xCCB, offset: 0xB3A99, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl displayWebViewViewWithMessageDefinition:controllerDelegate:]', symObjAddr: 0xC38, symBinAddr: 0x949C, symSize: 0xBC }
+  - { offsetInCU: 0xD34, offset: 0xB3B02, size: 0x8, addend: 0x0, symName: '___86+[WPIAMDefaultDisplayImpl displayWebViewViewWithMessageDefinition:controllerDelegate:]_block_invoke', symObjAddr: 0xCF4, symBinAddr: 0x9558, symSize: 0x274 }
+  - { offsetInCU: 0xE50, offset: 0xB3C1E, size: 0x8, addend: 0x0, symName: '-[WPIAMDefaultDisplayImpl displayMessage:displayDelegate:]', symObjAddr: 0xF68, symBinAddr: 0x97CC, symSize: 0x1FC }
+  - { offsetInCU: 0xF1E, offset: 0xB3CEC, size: 0x8, addend: 0x0, symName: '+[WPIAMDefaultDisplayImpl applicationNotActiveError]', symObjAddr: 0x1164, symBinAddr: 0x99C8, symSize: 0x24 }
+  - { offsetInCU: 0x27, offset: 0xB4170, size: 0x8, addend: 0x0, symName: '+[WPIAMWebViewViewController instantiateViewControllerWithResourceBundle:displayMessage:controllerDelegate:timeFetcher:]', symObjAddr: 0x0, symBinAddr: 0x99EC, symSize: 0x144 }
+  - { offsetInCU: 0x41, offset: 0xB418A, size: 0x8, addend: 0x0, symName: _paka, symObjAddr: 0x11230, symBinAddr: 0xCF098, symSize: 0x0 }
+  - { offsetInCU: 0x81, offset: 0xB41CA, size: 0x8, addend: 0x0, symName: _oldDeviceOrientation, symObjAddr: 0x11270, symBinAddr: 0xCF0D8, symSize: 0x0 }
+  - { offsetInCU: 0x97, offset: 0xB41E0, size: 0x8, addend: 0x0, symName: _navController, symObjAddr: 0x11238, symBinAddr: 0xCF0A0, symSize: 0x0 }
+  - { offsetInCU: 0xB2, offset: 0xB41FB, size: 0x8, addend: 0x0, symName: _viewControllerForPresentation, symObjAddr: 0x11240, symBinAddr: 0xCF0A8, symSize: 0x0 }
+  - { offsetInCU: 0xCE, offset: 0xB4217, size: 0x8, addend: 0x0, symName: _gestureRecognizerRight, symObjAddr: 0x11278, symBinAddr: 0xCF0E0, symSize: 0x0 }
+  - { offsetInCU: 0xEA, offset: 0xB4233, size: 0x8, addend: 0x0, symName: _gestureRecognizerLeft, symObjAddr: 0x11280, symBinAddr: 0xCF0E8, symSize: 0x0 }
+  - { offsetInCU: 0x101, offset: 0xB424A, size: 0x8, addend: 0x0, symName: _c, symObjAddr: 0x11268, symBinAddr: 0xCF0D0, symSize: 0x0 }
+  - { offsetInCU: 0x118, offset: 0xB4261, size: 0x8, addend: 0x0, symName: _nbk, symObjAddr: 0x11258, symBinAddr: 0xCF0C0, symSize: 0x0 }
+  - { offsetInCU: 0x136, offset: 0xB427F, size: 0x8, addend: 0x0, symName: _some, symObjAddr: 0x11248, symBinAddr: 0xCF0B0, symSize: 0x0 }
+  - { offsetInCU: 0x14D, offset: 0xB4296, size: 0x8, addend: 0x0, symName: _poker, symObjAddr: 0x11260, symBinAddr: 0xCF0C8, symSize: 0x0 }
+  - { offsetInCU: 0x164, offset: 0xB42AD, size: 0x8, addend: 0x0, symName: _progressView, symObjAddr: 0x11250, symBinAddr: 0xCF0B8, symSize: 0x0 }
+  - { offsetInCU: 0x6B1, offset: 0xB47FA, size: 0x8, addend: 0x0, symName: '+[WPIAMWebViewViewController instantiateViewControllerWithResourceBundle:displayMessage:controllerDelegate:timeFetcher:]', symObjAddr: 0x0, symBinAddr: 0x99EC, symSize: 0x144 }
+  - { offsetInCU: 0x766, offset: 0xB48AF, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController inAppMessage]', symObjAddr: 0x144, symBinAddr: 0x9B30, symSize: 0x4 }
+  - { offsetInCU: 0x79B, offset: 0xB48E4, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController closeButtonClicked:]', symObjAddr: 0x148, symBinAddr: 0x9B34, symSize: 0x8 }
+  - { offsetInCU: 0x7D8, offset: 0xB4921, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController viewDidLoad]', symObjAddr: 0x150, symBinAddr: 0x9B3C, symSize: 0x4FC }
+  - { offsetInCU: 0x83A, offset: 0xB4983, size: 0x8, addend: 0x0, symName: '___41-[WPIAMWebViewViewController viewDidLoad]_block_invoke', symObjAddr: 0x64C, symBinAddr: 0xA038, symSize: 0x5C }
+  - { offsetInCU: 0x895, offset: 0xB49DE, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32w40w, symObjAddr: 0x6A8, symBinAddr: 0xA094, symSize: 0x34 }
+  - { offsetInCU: 0x8BE, offset: 0xB4A07, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32w40w, symObjAddr: 0x6DC, symBinAddr: 0xA0C8, symSize: 0x28 }
+  - { offsetInCU: 0x8DD, offset: 0xB4A26, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController flashCloseButton:]', symObjAddr: 0x704, symBinAddr: 0xA0F0, symSize: 0xA8 }
+  - { offsetInCU: 0x91C, offset: 0xB4A65, size: 0x8, addend: 0x0, symName: '___47-[WPIAMWebViewViewController flashCloseButton:]_block_invoke', symObjAddr: 0x7AC, symBinAddr: 0xA198, symSize: 0x10 }
+  - { offsetInCU: 0x957, offset: 0xB4AA0, size: 0x8, addend: 0x0, symName: '___47-[WPIAMWebViewViewController flashCloseButton:]_block_invoke.11', symObjAddr: 0x7CC, symBinAddr: 0xA1A8, symSize: 0x4 }
+  - { offsetInCU: 0x98A, offset: 0xB4AD3, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController viewToAnimate]', symObjAddr: 0x7D0, symBinAddr: 0xA1AC, symSize: 0x4 }
+  - { offsetInCU: 0x9BF, offset: 0xB4B08, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController viewWillAppear:]', symObjAddr: 0x7D4, symBinAddr: 0xA1B0, symSize: 0x74 }
+  - { offsetInCU: 0xA02, offset: 0xB4B4B, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController viewDidDisappear:]', symObjAddr: 0x848, symBinAddr: 0xA224, symSize: 0xA0 }
+  - { offsetInCU: 0xA45, offset: 0xB4B8E, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController dimsBackground]', symObjAddr: 0x8E8, symBinAddr: 0xA2C4, symSize: 0x8 }
+  - { offsetInCU: 0xA78, offset: 0xB4BC1, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController webViewMessage]', symObjAddr: 0x8F0, symBinAddr: 0xA2CC, symSize: 0x10 }
+  - { offsetInCU: 0xAAF, offset: 0xB4BF8, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController setWebViewMessage:]', symObjAddr: 0x900, symBinAddr: 0xA2DC, symSize: 0x14 }
+  - { offsetInCU: 0xAF0, offset: 0xB4C39, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController closeButton]', symObjAddr: 0x914, symBinAddr: 0xA2F0, symSize: 0x20 }
+  - { offsetInCU: 0xB27, offset: 0xB4C70, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController setCloseButton:]', symObjAddr: 0x934, symBinAddr: 0xA310, symSize: 0x14 }
+  - { offsetInCU: 0xB68, offset: 0xB4CB1, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController containerView]', symObjAddr: 0x948, symBinAddr: 0xA324, symSize: 0x20 }
+  - { offsetInCU: 0xB9F, offset: 0xB4CE8, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController setContainerView:]', symObjAddr: 0x968, symBinAddr: 0xA344, symSize: 0x14 }
+  - { offsetInCU: 0xBE0, offset: 0xB4D29, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController webView]', symObjAddr: 0x97C, symBinAddr: 0xA358, symSize: 0x20 }
+  - { offsetInCU: 0xC17, offset: 0xB4D60, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController setWebView:]', symObjAddr: 0x99C, symBinAddr: 0xA378, symSize: 0x14 }
+  - { offsetInCU: 0xC58, offset: 0xB4DA1, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewViewController .cxx_destruct]', symObjAddr: 0x9B0, symBinAddr: 0xA38C, symSize: 0x5C }
+  - { offsetInCU: 0xC8B, offset: 0xB4DD4, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainerView pointInside:withEvent:]', symObjAddr: 0xA0C, symBinAddr: 0xA3E8, symSize: 0xFC }
+  - { offsetInCU: 0xCDE, offset: 0xB4E27, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainerView webView]', symObjAddr: 0xB08, symBinAddr: 0xA4E4, symSize: 0x20 }
+  - { offsetInCU: 0xD15, offset: 0xB4E5E, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainerView setWebView:]', symObjAddr: 0xB28, symBinAddr: 0xA504, symSize: 0x14 }
+  - { offsetInCU: 0xD56, offset: 0xB4E9F, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainerView .cxx_destruct]', symObjAddr: 0xB3C, symBinAddr: 0xA518, symSize: 0x10 }
+  - { offsetInCU: 0xD89, offset: 0xB4ED2, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainerWindow pointInside:withEvent:]', symObjAddr: 0xB4C, symBinAddr: 0xA528, symSize: 0xFC }
+  - { offsetInCU: 0xDDC, offset: 0xB4F25, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainerWindow webView]', symObjAddr: 0xC48, symBinAddr: 0xA624, symSize: 0x20 }
+  - { offsetInCU: 0xE13, offset: 0xB4F5C, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainerWindow setWebView:]', symObjAddr: 0xC68, symBinAddr: 0xA644, symSize: 0x14 }
+  - { offsetInCU: 0xE54, offset: 0xB4F9D, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainerWindow .cxx_destruct]', symObjAddr: 0xC7C, symBinAddr: 0xA658, symSize: 0x10 }
+  - { offsetInCU: 0xE87, offset: 0xB4FD0, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer viewDidLoad]', symObjAddr: 0xC8C, symBinAddr: 0xA668, symSize: 0x1D8 }
+  - { offsetInCU: 0xEF9, offset: 0xB5042, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer webView:createWebViewWithConfiguration:forNavigationAction:windowFeatures:]', symObjAddr: 0xE64, symBinAddr: 0xA840, symSize: 0x138 }
+  - { offsetInCU: 0xFA6, offset: 0xB50EF, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer prefersStatusBarHidden]', symObjAddr: 0xF9C, symBinAddr: 0xA978, symSize: 0x7C }
+  - { offsetInCU: 0xFDD, offset: 0xB5126, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer webView:didStartProvisionalNavigation:]', symObjAddr: 0x1018, symBinAddr: 0xA9F4, symSize: 0x5C }
+  - { offsetInCU: 0x1028, offset: 0xB5171, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer webView:didFinishNavigation:]', symObjAddr: 0x1074, symBinAddr: 0xAA50, symSize: 0x80 }
+  - { offsetInCU: 0x1092, offset: 0xB51DB, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer webView:decidePolicyForNavigationAction:decisionHandler:]', symObjAddr: 0x10F4, symBinAddr: 0xAAD0, symSize: 0x374 }
+  - { offsetInCU: 0x1156, offset: 0xB529F, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer webView:didFailNavigation:withError:]', symObjAddr: 0x1468, symBinAddr: 0xAE44, symSize: 0x4 }
+  - { offsetInCU: 0x11AD, offset: 0xB52F6, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer pinSubviewToMarginsWithSubview:withSuperview:]', symObjAddr: 0x146C, symBinAddr: 0xAE48, symSize: 0x1A4 }
+  - { offsetInCU: 0x1254, offset: 0xB539D, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer sdf]', symObjAddr: 0x1610, symBinAddr: 0xAFEC, symSize: 0x2B4 }
+  - { offsetInCU: 0x12D5, offset: 0xB541E, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer gfd]', symObjAddr: 0x18C4, symBinAddr: 0xB2A0, symSize: 0x10 }
+  - { offsetInCU: 0x130C, offset: 0xB5455, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer setGfd:]', symObjAddr: 0x18D4, symBinAddr: 0xB2B0, symSize: 0xC }
+  - { offsetInCU: 0x134B, offset: 0xB5494, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer someView]', symObjAddr: 0x18E0, symBinAddr: 0xB2BC, symSize: 0x10 }
+  - { offsetInCU: 0x1382, offset: 0xB54CB, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer setSomeView:]', symObjAddr: 0x18F0, symBinAddr: 0xB2CC, symSize: 0x14 }
+  - { offsetInCU: 0x13C3, offset: 0xB550C, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer uiBusy]', symObjAddr: 0x1904, symBinAddr: 0xB2E0, symSize: 0x10 }
+  - { offsetInCU: 0x13FA, offset: 0xB5543, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer setUiBusy:]', symObjAddr: 0x1914, symBinAddr: 0xB2F0, symSize: 0x14 }
+  - { offsetInCU: 0x143B, offset: 0xB5584, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer pappy]', symObjAddr: 0x1928, symBinAddr: 0xB304, symSize: 0x10 }
+  - { offsetInCU: 0x1472, offset: 0xB55BB, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer setPappy:]', symObjAddr: 0x1938, symBinAddr: 0xB314, symSize: 0x14 }
+  - { offsetInCU: 0x14B3, offset: 0xB55FC, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewContainer .cxx_destruct]', symObjAddr: 0x194C, symBinAddr: 0xB328, symSize: 0x68 }
+  - { offsetInCU: 0x14E6, offset: 0xB562F, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer init]', symObjAddr: 0x19B4, symBinAddr: 0xB390, symSize: 0x68 }
+  - { offsetInCU: 0x151E, offset: 0xB5667, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer dealloc]', symObjAddr: 0x1A1C, symBinAddr: 0xB3F8, symSize: 0x58 }
+  - { offsetInCU: 0x1552, offset: 0xB569B, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer observeValueForKeyPath:ofObject:change:context:]', symObjAddr: 0x1A74, symBinAddr: 0xB450, symSize: 0x478 }
+  - { offsetInCU: 0x1662, offset: 0xB57AB, size: 0x8, addend: 0x0, symName: '___78-[WPIAMWebViewWindowContainer observeValueForKeyPath:ofObject:change:context:]_block_invoke', symObjAddr: 0x1EEC, symBinAddr: 0xB8C8, symSize: 0x10 }
+  - { offsetInCU: 0x168B, offset: 0xB57D4, size: 0x8, addend: 0x0, symName: '___78-[WPIAMWebViewWindowContainer observeValueForKeyPath:ofObject:change:context:]_block_invoke_2', symObjAddr: 0x1EFC, symBinAddr: 0xB8D8, symSize: 0x14 }
+  - { offsetInCU: 0x16C1, offset: 0xB580A, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer mutableCopy]', symObjAddr: 0x1F10, symBinAddr: 0xB8EC, symSize: 0x48 }
+  - { offsetInCU: 0x16F5, offset: 0xB583E, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer copy]', symObjAddr: 0x1F58, symBinAddr: 0xB934, symSize: 0x130 }
+  - { offsetInCU: 0x172D, offset: 0xB5876, size: 0x8, addend: 0x0, symName: '___35-[WPIAMWebViewWindowContainer copy]_block_invoke', symObjAddr: 0x2088, symBinAddr: 0xBA64, symSize: 0x4C }
+  - { offsetInCU: 0x1763, offset: 0xB58AC, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer l]', symObjAddr: 0x20D4, symBinAddr: 0xBAB0, symSize: 0x4C }
+  - { offsetInCU: 0x17A8, offset: 0xB58F1, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer f:gsome:]', symObjAddr: 0x2120, symBinAddr: 0xBAFC, symSize: 0xEFC }
+  - { offsetInCU: 0x1945, offset: 0xB5A8E, size: 0x8, addend: 0x0, symName: '___39-[WPIAMWebViewWindowContainer f:gsome:]_block_invoke', symObjAddr: 0x301C, symBinAddr: 0xC9F8, symSize: 0xF4 }
+  - { offsetInCU: 0x1994, offset: 0xB5ADD, size: 0x8, addend: 0x0, symName: '___39-[WPIAMWebViewWindowContainer f:gsome:]_block_invoke.180', symObjAddr: 0x3110, symBinAddr: 0xCAEC, symSize: 0x1B4 }
+  - { offsetInCU: 0x19E3, offset: 0xB5B2C, size: 0x8, addend: 0x0, symName: '___39-[WPIAMWebViewWindowContainer f:gsome:]_block_invoke_2', symObjAddr: 0x32C4, symBinAddr: 0xCCA0, symSize: 0x50C }
+  - { offsetInCU: 0x1A98, offset: 0xB5BE1, size: 0x8, addend: 0x0, symName: '___39-[WPIAMWebViewWindowContainer f:gsome:]_block_invoke_3', symObjAddr: 0x37D0, symBinAddr: 0xD1AC, symSize: 0x50 }
+  - { offsetInCU: 0x1AEC, offset: 0xB5C35, size: 0x8, addend: 0x0, symName: '___39-[WPIAMWebViewWindowContainer f:gsome:]_block_invoke_4', symObjAddr: 0x3820, symBinAddr: 0xD1FC, symSize: 0x48 }
+  - { offsetInCU: 0x1B40, offset: 0xB5C89, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s, symObjAddr: 0x3868, symBinAddr: 0xD244, symSize: 0x30 }
+  - { offsetInCU: 0x1B69, offset: 0xB5CB2, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s, symObjAddr: 0x3898, symBinAddr: 0xD274, symSize: 0x30 }
+  - { offsetInCU: 0x1B88, offset: 0xB5CD1, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer reverseColorOf:]', symObjAddr: 0x38C8, symBinAddr: 0xD2A4, symSize: 0x1C4 }
+  - { offsetInCU: 0x1D2A, offset: 0xB5E73, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer refresh:]', symObjAddr: 0x3A8C, symBinAddr: 0xD468, symSize: 0x5C }
+  - { offsetInCU: 0x1D6F, offset: 0xB5EB8, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer swipeHandlerRight:]', symObjAddr: 0x3AE8, symBinAddr: 0xD4C4, symSize: 0x38 }
+  - { offsetInCU: 0x1DB0, offset: 0xB5EF9, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer swipeHandlerLeft:]', symObjAddr: 0x3B20, symBinAddr: 0xD4FC, symSize: 0x38 }
+  - { offsetInCU: 0x1DF1, offset: 0xB5F3A, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer currentKeyWindow]', symObjAddr: 0x3B58, symBinAddr: 0xD534, symSize: 0x98 }
+  - { offsetInCU: 0x1E71, offset: 0xB5FBA, size: 0x8, addend: 0x0, symName: '-[WPIAMWebViewWindowContainer ownRootViewController]', symObjAddr: 0x3BF0, symBinAddr: 0xD5CC, symSize: 0xF0 }
   - { offsetInCU: 0x27, offset: 0xB6628, size: 0x8, addend: 0x0, symName: '-[WPIAMBannerViewUIWindow pointInside:withEvent:]', symObjAddr: 0x0, symBinAddr: 0xD6BC, symSize: 0xD8 }
   - { offsetInCU: 0x4D, offset: 0xB664E, size: 0x8, addend: 0x0, symName: '-[WPIAMBannerViewUIWindow pointInside:withEvent:]', symObjAddr: 0x0, symBinAddr: 0xD6BC, symSize: 0xD8 }
   - { offsetInCU: 0x27, offset: 0xB6712, size: 0x8, addend: 0x0, symName: '-[WPIAMMessageClientCache initWithBookkeeper:]', symObjAddr: 0x0, symBinAddr: 0xD794, symSize: 0x78 }
