@@ -18,7 +18,7 @@
 		</data>
 		<key>ios-arm64/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		VDtd6CwLWAx32+WGx/kUDe4XH6M=
+		LsBCSsGmcFtx+HY+ZFI2NYrBMsk=
 		</data>
 		<key>ios-arm64/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>ios-arm64/PostHog.framework/PostHog</key>
 		<data>
-		EbJl1t9rdSRq4tvDOcc4Y2fEjUI=
+		B64sh/KpylylhlooV1CAq9vLsrM=
 		</data>
 		<key>ios-arm64/PostHog.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		9GNKhkq/l4MRzePCz/vDvsi4qJg=
+		dzjNd25uRlSrWEOsW6BM6J+fRVg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		9GNKhkq/l4MRzePCz/vDvsi4qJg=
+		dzjNd25uRlSrWEOsW6BM6J+fRVg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/PostHog</key>
 		<data>
-		ADpsb9zBRvX+M1E3Cvo0nsw1wKg=
+		yoPe14BKgYduijSSeBYCLNXJfVE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -140,11 +140,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VDtd6CwLWAx32+WGx/kUDe4XH6M=
+			LsBCSsGmcFtx+HY+ZFI2NYrBMsk=
 			</data>
 			<key>hash2</key>
 			<data>
-			0+9d3MuouBvm9EtE91mfufzd0b8oXTlPY/x8JPx0IMM=
+			nMjG0ZrmGiXnS0h3M6ZuhaYAbFWgKwvPceb2h0ZdoP0=
 			</data>
 		</dict>
 		<key>ios-arm64/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -195,11 +195,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EbJl1t9rdSRq4tvDOcc4Y2fEjUI=
+			B64sh/KpylylhlooV1CAq9vLsrM=
 			</data>
 			<key>hash2</key>
 			<data>
-			xBZLpbRdDs5X0MREEz3z+fSoLkSTXcg1dkvWNtQSkT0=
+			SyHTxI6TYrTbw9J/XaDunFtkNltKqsmTMynfHNs5OJE=
 			</data>
 		</dict>
 		<key>ios-arm64/PostHog.framework/PrivacyInfo.xcprivacy</key>
@@ -250,11 +250,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9GNKhkq/l4MRzePCz/vDvsi4qJg=
+			dzjNd25uRlSrWEOsW6BM6J+fRVg=
 			</data>
 			<key>hash2</key>
 			<data>
-			SWXP5ULBg+oTIV4SD80nUhPGFk0OD96K1Iq79Uf1IHI=
+			y1rE9hArmLU4+D8ya/xDd9Nsb7Y6tftwTL2AlL76/jg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -294,11 +294,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9GNKhkq/l4MRzePCz/vDvsi4qJg=
+			dzjNd25uRlSrWEOsW6BM6J+fRVg=
 			</data>
 			<key>hash2</key>
 			<data>
-			SWXP5ULBg+oTIV4SD80nUhPGFk0OD96K1Iq79Uf1IHI=
+			y1rE9hArmLU4+D8ya/xDd9Nsb7Y6tftwTL2AlL76/jg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -349,11 +349,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ADpsb9zBRvX+M1E3Cvo0nsw1wKg=
+			yoPe14BKgYduijSSeBYCLNXJfVE=
 			</data>
 			<key>hash2</key>
 			<data>
-			UE54vSr+Sn0iJ6N9UWER1olQMcICmXksp18Y/Rsmzyo=
+			tXz5QZ/t1W6N1CWk852cUXZZLtSyGyzQQjeFD0B2l+Y=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/PrivacyInfo.xcprivacy</key>
