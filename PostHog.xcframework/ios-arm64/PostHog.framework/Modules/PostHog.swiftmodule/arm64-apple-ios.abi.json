@@ -8164,84 +8164,98 @@
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "BooleanLiteral",
-      "offset": 1272,
+      "offset": 1052,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "StringLiteral",
-      "offset": 1735,
+      "offset": 1018,
+      "length": 11,
+      "value": "\"appsflyer\""
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1345,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
+      "kind": "StringLiteral",
+      "offset": 1808,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "BooleanLiteral",
-      "offset": 1849,
+      "offset": 1922,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "BooleanLiteral",
-      "offset": 1921,
+      "offset": 1994,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "BooleanLiteral",
-      "offset": 10148,
+      "offset": 10300,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "StringLiteral",
-      "offset": 22384,
+      "offset": 22599,
       "length": 10,
       "value": "\"PostHog.APPSFWraps\""
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "IntegerLiteral",
-      "offset": 24511,
+      "offset": 24726,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "IntegerLiteral",
-      "offset": 24517,
+      "offset": 24732,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "IntegerLiteral",
-      "offset": 24527,
+      "offset": 24742,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "IntegerLiteral",
-      "offset": 24540,
+      "offset": 24755,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "BooleanLiteral",
-      "offset": 26745,
+      "offset": 26960,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "StringLiteral",
-      "offset": 26706,
+      "offset": 26921,
       "length": 16,
       "value": "\"ReviewIsShowed\""
     },
