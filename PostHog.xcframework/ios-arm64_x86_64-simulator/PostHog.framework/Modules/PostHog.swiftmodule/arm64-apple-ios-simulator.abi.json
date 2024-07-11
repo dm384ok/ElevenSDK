@@ -127,6 +127,27 @@
         "moduleName": "PostHog"
       },
       {
+        "kind": "Import",
+        "name": "TikTokBusinessSDK",
+        "printedName": "TikTokBusinessSDK",
+        "declKind": "Import",
+        "moduleName": "PostHog"
+      },
+      {
+        "kind": "Import",
+        "name": "Firebase",
+        "printedName": "Firebase",
+        "declKind": "Import",
+        "moduleName": "PostHog"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "PostHog"
+      },
+      {
         "kind": "TypeDecl",
         "name": "PostHog",
         "printedName": "PostHog",
@@ -8136,91 +8157,105 @@
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "Dictionary",
-      "offset": 503,
+      "offset": 568,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "BooleanLiteral",
-      "offset": 1170,
+      "offset": 1052,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "StringLiteral",
-      "offset": 1633,
+      "offset": 1018,
+      "length": 11,
+      "value": "\"appsflyer\""
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1345,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
+      "kind": "StringLiteral",
+      "offset": 1808,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "BooleanLiteral",
-      "offset": 1747,
+      "offset": 1922,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "BooleanLiteral",
-      "offset": 1819,
+      "offset": 1994,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "BooleanLiteral",
-      "offset": 8339,
+      "offset": 10300,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "StringLiteral",
-      "offset": 19435,
+      "offset": 22599,
       "length": 10,
       "value": "\"PostHog.APPSFWraps\""
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "IntegerLiteral",
-      "offset": 21562,
+      "offset": 24726,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "IntegerLiteral",
-      "offset": 21568,
+      "offset": 24732,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "IntegerLiteral",
-      "offset": 21578,
+      "offset": 24742,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "IntegerLiteral",
-      "offset": 21591,
+      "offset": 24755,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "BooleanLiteral",
-      "offset": 23796,
+      "offset": 26960,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/builder\/clone\/posthog-ios-main\/PostHog\/PostHog.swift",
       "kind": "StringLiteral",
-      "offset": 23757,
+      "offset": 26921,
       "length": 16,
       "value": "\"ReviewIsShowed\""
     },

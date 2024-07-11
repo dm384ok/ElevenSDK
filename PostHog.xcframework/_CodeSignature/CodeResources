@@ -18,11 +18,11 @@
 		</data>
 		<key>ios-arm64/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		1r4nWo7yFdQukDve+NNl+3zKn68=
+		DOYRsmHS0WxG332xWyhSB9fWgzg=
 		</data>
 		<key>ios-arm64/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		wBJ+kae9r3Nzk2xLd7CieiIJsEI=
+		tB57kxlxZ+ZwYzxwIPSD/OGkXeI=
 		</data>
 		<key>ios-arm64/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>ios-arm64/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		wBJ+kae9r3Nzk2xLd7CieiIJsEI=
+		tB57kxlxZ+ZwYzxwIPSD/OGkXeI=
 		</data>
 		<key>ios-arm64/PostHog.framework/Modules/module.modulemap</key>
 		<data>
@@ -38,31 +38,11 @@
 		</data>
 		<key>ios-arm64/PostHog.framework/PostHog</key>
 		<data>
-		JEZ91BiR5I2F2nXMC4ycX/0t2WA=
+		nnHYSplXxK5RuUisi3+fNLXamEQ=
 		</data>
 		<key>ios-arm64/PostHog.framework/PrivacyInfo.xcprivacy</key>
 		<data>
 		XdwEI7KKJu2gxulf6d+8+2HpdjQ=
-		</data>
-		<key>ios-arm64/dSYMs/PostHog.framework.dSYM/Contents/Info.plist</key>
-		<data>
-		bxg+8KMrIz6AecrRWF8SQPm0Fq0=
-		</data>
-		<key>ios-arm64/dSYMs/PostHog.framework.dSYM/Contents/Resources/DWARF/PostHog</key>
-		<data>
-		A7wrVXUQOio0LoFfH2M7Mg6S/xQ=
-		</data>
-		<key>ios-arm64/dSYMs/PostHog.framework.dSYM/Contents/Resources/Relocations/aarch64/PostHog.yml</key>
-		<data>
-		2gGCMXKtu1Ey4OOsgHm9VdOdPnY=
-		</data>
-		<key>ios-arm64/dSYMs/PostHog.framework.dSYM/Contents/Resources/Swift/aarch64/FBSDKCoreKit.swiftinterface</key>
-		<data>
-		zBA8OuBst3womAiWuaQthD5x0W8=
-		</data>
-		<key>ios-arm64/dSYMs/PostHog.framework.dSYM/Contents/Resources/Swift/aarch64/OneSignalFramework.swiftinterface</key>
-		<data>
-		YFOr2jCGbt1kAkZSGSmxAOmOrUo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Headers/PostHog-Swift.h</key>
 		<data>
@@ -78,11 +58,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ofsqficNkvzPP21S3EQqK61YVU8=
+		iqcw6PHc9IMvcW5fkSlgX5mS3I4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		+NLR5HhUZYphyVcyPGDHA/O2ytc=
+		wBHwAQAv4mHMRcEjDuZ0CDpcR+w=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -90,15 +70,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+NLR5HhUZYphyVcyPGDHA/O2ytc=
+		wBHwAQAv4mHMRcEjDuZ0CDpcR+w=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ofsqficNkvzPP21S3EQqK61YVU8=
+		iqcw6PHc9IMvcW5fkSlgX5mS3I4=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		aBJyi8N71x/mVKys79tPoBVpzpc=
+		4f22XjuA/Tt0s/BkED6QffiB3f0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -106,7 +86,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		aBJyi8N71x/mVKys79tPoBVpzpc=
+		4f22XjuA/Tt0s/BkED6QffiB3f0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/module.modulemap</key>
 		<data>
@@ -114,43 +94,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/PostHog</key>
 		<data>
-		ZmOu/aAzHI32nedIHyh/7FJG6TQ=
+		XYlzitdiOlW7KsUqMwSJGvaCYEY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/PrivacyInfo.xcprivacy</key>
 		<data>
 		XdwEI7KKJu2gxulf6d+8+2HpdjQ=
-		</data>
-		<key>ios-arm64_x86_64-simulator/dSYMs/PostHog.framework.dSYM/Contents/Info.plist</key>
-		<data>
-		bxg+8KMrIz6AecrRWF8SQPm0Fq0=
-		</data>
-		<key>ios-arm64_x86_64-simulator/dSYMs/PostHog.framework.dSYM/Contents/Resources/DWARF/PostHog</key>
-		<data>
-		Ese+TO5H23jgldFGxwogfG8mZOk=
-		</data>
-		<key>ios-arm64_x86_64-simulator/dSYMs/PostHog.framework.dSYM/Contents/Resources/Relocations/aarch64/PostHog.yml</key>
-		<data>
-		+cXev/QhPrhY9wMt+pkfnA5rXKA=
-		</data>
-		<key>ios-arm64_x86_64-simulator/dSYMs/PostHog.framework.dSYM/Contents/Resources/Relocations/x86_64/PostHog.yml</key>
-		<data>
-		lilmA1RMI0jvi2mJn9U556D6erU=
-		</data>
-		<key>ios-arm64_x86_64-simulator/dSYMs/PostHog.framework.dSYM/Contents/Resources/Swift/aarch64/FBSDKCoreKit.swiftinterface</key>
-		<data>
-		CNOlK37zqj9ARZY+Noz/4VOP5jc=
-		</data>
-		<key>ios-arm64_x86_64-simulator/dSYMs/PostHog.framework.dSYM/Contents/Resources/Swift/aarch64/OneSignalFramework.swiftinterface</key>
-		<data>
-		/Li650CDHlRku6nVRj8aDZUzv+g=
-		</data>
-		<key>ios-arm64_x86_64-simulator/dSYMs/PostHog.framework.dSYM/Contents/Resources/Swift/x86_64/FBSDKCoreKit.swiftinterface</key>
-		<data>
-		asCLiEgQxQTybC7GQy2QAJa3R4Y=
-		</data>
-		<key>ios-arm64_x86_64-simulator/dSYMs/PostHog.framework.dSYM/Contents/Resources/Swift/x86_64/OneSignalFramework.swiftinterface</key>
-		<data>
-		imLr7upxTXzykWyc8lSMwNn+c+I=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -192,22 +140,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1r4nWo7yFdQukDve+NNl+3zKn68=
+			DOYRsmHS0WxG332xWyhSB9fWgzg=
 			</data>
 			<key>hash2</key>
 			<data>
-			YQkpdyudFbtEX0U2MryL0Ve4h5iEajixSrjKLRZvvxY=
+			PRE5jrljtbazu+R8msDIW0HjKeXNLTXmNIoIiD7hbZU=
 			</data>
 		</dict>
 		<key>ios-arm64/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wBJ+kae9r3Nzk2xLd7CieiIJsEI=
+			tB57kxlxZ+ZwYzxwIPSD/OGkXeI=
 			</data>
 			<key>hash2</key>
 			<data>
-			O3gA+v4ZWnFoOAGVzFLu/q/MlZlKV3hYu+EeKxr5APQ=
+			85jUIvbQu+2L3fb3T1bhZ3T2fZJJPXrgCAK4LEMIAJg=
 			</data>
 		</dict>
 		<key>ios-arm64/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -225,11 +173,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wBJ+kae9r3Nzk2xLd7CieiIJsEI=
+			tB57kxlxZ+ZwYzxwIPSD/OGkXeI=
 			</data>
 			<key>hash2</key>
 			<data>
-			O3gA+v4ZWnFoOAGVzFLu/q/MlZlKV3hYu+EeKxr5APQ=
+			85jUIvbQu+2L3fb3T1bhZ3T2fZJJPXrgCAK4LEMIAJg=
 			</data>
 		</dict>
 		<key>ios-arm64/PostHog.framework/Modules/module.modulemap</key>
@@ -247,11 +195,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JEZ91BiR5I2F2nXMC4ycX/0t2WA=
+			nnHYSplXxK5RuUisi3+fNLXamEQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			cPZi8wno42RRfZDRMkbaMg5R7OwGkAdDMde8S1F4gC8=
+			PMzh686J0uIN4jwIKp7RW8H3FvAyNur1HcfA+xFEAv4=
 			</data>
 		</dict>
 		<key>ios-arm64/PostHog.framework/PrivacyInfo.xcprivacy</key>
@@ -263,61 +211,6 @@
 			<key>hash2</key>
 			<data>
 			ThroJG4j7f39WdC+6WBpRWJsEMg+Vaf1rz8E3yX6db0=
-			</data>
-		</dict>
-		<key>ios-arm64/dSYMs/PostHog.framework.dSYM/Contents/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bxg+8KMrIz6AecrRWF8SQPm0Fq0=
-			</data>
-			<key>hash2</key>
-			<data>
-			RKpb2FtoFIdly2KmE9+CkqTHR6asS5kUwwvSdYW03rQ=
-			</data>
-		</dict>
-		<key>ios-arm64/dSYMs/PostHog.framework.dSYM/Contents/Resources/DWARF/PostHog</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			A7wrVXUQOio0LoFfH2M7Mg6S/xQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			FcqyIgMx6YWomBKKbWW1oH1guLni4a/buiV6luPshs4=
-			</data>
-		</dict>
-		<key>ios-arm64/dSYMs/PostHog.framework.dSYM/Contents/Resources/Relocations/aarch64/PostHog.yml</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2gGCMXKtu1Ey4OOsgHm9VdOdPnY=
-			</data>
-			<key>hash2</key>
-			<data>
-			cOm17S+dM1zp8XMrW+ik53amoiBPkSF+UE4C5ewXFvo=
-			</data>
-		</dict>
-		<key>ios-arm64/dSYMs/PostHog.framework.dSYM/Contents/Resources/Swift/aarch64/FBSDKCoreKit.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zBA8OuBst3womAiWuaQthD5x0W8=
-			</data>
-			<key>hash2</key>
-			<data>
-			xz0VXB9Nt3PyV/U0/VnbDWfn/tL4a444Ekk3aYqWc5Y=
-			</data>
-		</dict>
-		<key>ios-arm64/dSYMs/PostHog.framework.dSYM/Contents/Resources/Swift/aarch64/OneSignalFramework.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YFOr2jCGbt1kAkZSGSmxAOmOrUo=
-			</data>
-			<key>hash2</key>
-			<data>
-			3mjIKplEeg3J8+73v6MlOEgq/5RmBxnPeDs19cdLKjc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Headers/PostHog-Swift.h</key>
@@ -357,22 +250,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ofsqficNkvzPP21S3EQqK61YVU8=
+			iqcw6PHc9IMvcW5fkSlgX5mS3I4=
 			</data>
 			<key>hash2</key>
 			<data>
-			2HCEm9UCCmwPhkM8VGFKDqKjABvkcT2By/+a9vJKbzQ=
+			vclMTD2Ej6EPldbTf7wlFFQEp1WnXnbENhRIExRcXRI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+NLR5HhUZYphyVcyPGDHA/O2ytc=
+			wBHwAQAv4mHMRcEjDuZ0CDpcR+w=
 			</data>
 			<key>hash2</key>
 			<data>
-			i1xOgFYUIppe65KkASg36m/NmAiN7XwJwy9XJDA6KSk=
+			fQ/nnhNHuRAoOlSKSxNu66mIDbH7DWbfbwrrqTXedGg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -390,33 +283,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+NLR5HhUZYphyVcyPGDHA/O2ytc=
+			wBHwAQAv4mHMRcEjDuZ0CDpcR+w=
 			</data>
 			<key>hash2</key>
 			<data>
-			i1xOgFYUIppe65KkASg36m/NmAiN7XwJwy9XJDA6KSk=
+			fQ/nnhNHuRAoOlSKSxNu66mIDbH7DWbfbwrrqTXedGg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ofsqficNkvzPP21S3EQqK61YVU8=
+			iqcw6PHc9IMvcW5fkSlgX5mS3I4=
 			</data>
 			<key>hash2</key>
 			<data>
-			2HCEm9UCCmwPhkM8VGFKDqKjABvkcT2By/+a9vJKbzQ=
+			vclMTD2Ej6EPldbTf7wlFFQEp1WnXnbENhRIExRcXRI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aBJyi8N71x/mVKys79tPoBVpzpc=
+			4f22XjuA/Tt0s/BkED6QffiB3f0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Up6K0RhdGRhXqhcZNhmGcez1MAMze44Nv5p+1i4x2t8=
+			KCUG4ZbPkbRa+fPdmUZ+YwQP/6kGRA5PvV5eZTmcmws=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/PostHog.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -434,11 +327,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aBJyi8N71x/mVKys79tPoBVpzpc=
+			4f22XjuA/Tt0s/BkED6QffiB3f0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Up6K0RhdGRhXqhcZNhmGcez1MAMze44Nv5p+1i4x2t8=
+			KCUG4ZbPkbRa+fPdmUZ+YwQP/6kGRA5PvV5eZTmcmws=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/Modules/module.modulemap</key>
@@ -456,11 +349,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZmOu/aAzHI32nedIHyh/7FJG6TQ=
+			XYlzitdiOlW7KsUqMwSJGvaCYEY=
 			</data>
 			<key>hash2</key>
 			<data>
-			F8D3h/AbHCDpgJ/OaJzDHDQWh4+WJiaLBbtkqJ5YiLQ=
+			XX7jwvlekDtdf/McbMBjMBE/HHsIBDSfCTlgZUwVpgw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PostHog.framework/PrivacyInfo.xcprivacy</key>
@@ -472,94 +365,6 @@
 			<key>hash2</key>
 			<data>
 			ThroJG4j7f39WdC+6WBpRWJsEMg+Vaf1rz8E3yX6db0=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/dSYMs/PostHog.framework.dSYM/Contents/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bxg+8KMrIz6AecrRWF8SQPm0Fq0=
-			</data>
-			<key>hash2</key>
-			<data>
-			RKpb2FtoFIdly2KmE9+CkqTHR6asS5kUwwvSdYW03rQ=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/dSYMs/PostHog.framework.dSYM/Contents/Resources/DWARF/PostHog</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Ese+TO5H23jgldFGxwogfG8mZOk=
-			</data>
-			<key>hash2</key>
-			<data>
-			8Ura1jxRPq4tPyAScZVtbKmXaiznVlWgEwd/Pxe+qEw=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/dSYMs/PostHog.framework.dSYM/Contents/Resources/Relocations/aarch64/PostHog.yml</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			+cXev/QhPrhY9wMt+pkfnA5rXKA=
-			</data>
-			<key>hash2</key>
-			<data>
-			aLljp1yQCSj0ewlRiE/y00T6W2WuQWmmOfaunfz03xI=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/dSYMs/PostHog.framework.dSYM/Contents/Resources/Relocations/x86_64/PostHog.yml</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			lilmA1RMI0jvi2mJn9U556D6erU=
-			</data>
-			<key>hash2</key>
-			<data>
-			jWIVAvL6mGEnhUX4HCHVATDL7AGk1OUoyll5zDdtRZs=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/dSYMs/PostHog.framework.dSYM/Contents/Resources/Swift/aarch64/FBSDKCoreKit.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CNOlK37zqj9ARZY+Noz/4VOP5jc=
-			</data>
-			<key>hash2</key>
-			<data>
-			gBOEOMk60231DKOQkFDC9WVEH9hle4lg6bMx4iJ+HB8=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/dSYMs/PostHog.framework.dSYM/Contents/Resources/Swift/aarch64/OneSignalFramework.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/Li650CDHlRku6nVRj8aDZUzv+g=
-			</data>
-			<key>hash2</key>
-			<data>
-			CwTYizqKhjPVRJu1+/yKQszDX6SZFplh6Oi7gS21pwQ=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/dSYMs/PostHog.framework.dSYM/Contents/Resources/Swift/x86_64/FBSDKCoreKit.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			asCLiEgQxQTybC7GQy2QAJa3R4Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			yNajcZRE+repiIgKBkQvr0RAJDrC99mkbSzBrDsdavs=
-			</data>
-		</dict>
-		<key>ios-arm64_x86_64-simulator/dSYMs/PostHog.framework.dSYM/Contents/Resources/Swift/x86_64/OneSignalFramework.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			imLr7upxTXzykWyc8lSMwNn+c+I=
-			</data>
-			<key>hash2</key>
-			<data>
-			/+eCuSSjbIGrX89FVUNuW0+YbdMXhUB7x0y4mM6Usv4=
 			</data>
 		</dict>
 	</dict>
