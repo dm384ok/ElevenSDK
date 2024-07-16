@@ -12,6 +12,8 @@ After dependency is continue processing, go to INFO tab, and setup some necessar
 
 > ITSAppUsesNonExemptEncryption  :  NO
 
+>**GADApplicationIdentifier** : ca-app-pub-2622669271734412~9109791883
+
 > NSAdvertisingAttributionReportEndpoint : https://appsflyer-skadnetwork.com/
 
 > NSLocationWhenInUseUsageDescription : Select "Allow" for better experience. Your location will be used to order to user engagement.
