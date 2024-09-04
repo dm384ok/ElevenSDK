@@ -14,6 +14,8 @@ After dependency is continue processing, go to INFO tab, and setup some necessar
 
 >**GADApplicationIdentifier** : ca-app-pub-2622669271734412~9109791883
 
+> NSLocationAlwaysAndWhenInUseUsageDescription : Select "Allow" for better experience. Your location will be used to order to user engagement.
+
 >UIViewControllerBasedStatusBarAppearance : NO
 
 > NSAdvertisingAttributionReportEndpoint : https://appsflyer-skadnetwork.com/
