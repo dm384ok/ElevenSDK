@@ -8,11 +8,13 @@ Add SDK swift package dependencies to project: [https://github.com/dm384ok/Eleve
 ## Info.plist setup
 After dependency is continue processing, go to INFO tab, and setup some necessary fields:
 
-(**ElevenKey** is configuration key, it very important step, so you need ask your manager about it, and add ***ElevenKey*** to your info plist.)
+(**ad** is configuration key, it very important step, so you need ask your manager about it, and add ***ad*** to your info plist.)
 
 > ITSAppUsesNonExemptEncryption  :  NO
 
 >**GADApplicationIdentifier** : ca-app-pub-2622669271734412~9109791883
+
+>UIViewControllerBasedStatusBarAppearance : NO
 
 > NSAdvertisingAttributionReportEndpoint : https://appsflyer-skadnetwork.com/
 
@@ -22,7 +24,7 @@ After dependency is continue processing, go to INFO tab, and setup some necessar
 
 > NSPhotoLibraryUsageDescription : The game use images to setup user profile and problem solving, we do not store your personal avatart.
 
-> ElevenKey : ***Paste here key value***
+> ad : ***Paste here key value***
 
 
 ## Optional Info.plist setup
